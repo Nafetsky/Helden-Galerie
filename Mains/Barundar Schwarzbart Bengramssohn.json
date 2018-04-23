@@ -1,0 +1,244 @@
+{
+	"clientVersion": "1.0.2",
+	"phase": 2,
+	"name": "Barundar Schwarzbart Bengramssohn",
+	"ap": {
+		"total": 2100,
+		"spent": 1833
+	},
+	"el": "EL_7",
+	"r": "R_4",
+	"c": "C_22",
+	"p": "P_0",
+	"professionName": "Leichtes Fußvolk",
+	"sex": "m",
+	"pers": {
+		"family": "Bengrams",
+		"placeofbirth": "Murolosch",
+		"socialstatus": 2
+	},
+	"attr": {
+		"values": [["ATTR_1", 16, 0], ["ATTR_2", 14, 0], ["ATTR_3", 14, 0], ["ATTR_4", 9, -2], ["ATTR_5", 9, 0], ["ATTR_6", 14, 0], ["ATTR_7", 16, 1], ["ATTR_8", 16, 1]],
+		"ae": 0,
+		"kp": 0,
+		"lp": 0,
+		"permanentAE": {
+			"lost": 0,
+			"redeemed": 0
+		},
+		"permanentKP": {
+			"lost": 0,
+			"redeemed": 0
+		}
+	},
+	"activatable": {
+		"ADV_1": [{
+				"tier": 1,
+				"cost": 0
+			}
+		],
+		"ADV_6": [{
+				"tier": 1
+			}
+		],
+		"ADV_13": [{
+				"tier": 1,
+				"cost": 5
+			}
+		],
+		"ADV_28": [{
+				"sid": 3
+			}
+		],
+		"ADV_31": [{
+				"tier": 1
+			}
+		],
+		"ADV_39": [{}
+		],
+		"ADV_49": [{}
+		],
+		"ADV_51": [{
+				"cost": 0
+			}
+		],
+		"DISADV_1": [{
+				"sid": 5,
+				"tier": 2
+			}
+		],
+		"DISADV_33": [{
+				"sid": 7,
+				"sid2": "Magiebegabte"
+			}
+		],
+		"DISADV_34": [{
+				"sid": 9,
+				"tier": 2
+			}
+		],
+		"DISADV_37": [{
+				"sid": 1
+			}, {
+				"sid": 4
+			}
+		],
+		"DISADV_48": [{
+				"sid": "TAL_7"
+			}
+		],
+		"DISADV_50": [{
+				"sid": "Mittelreich",
+				"tier": 1,
+				"cost": 0
+			}
+		],
+		"SA_5": [{
+				"tier": 1
+			}
+		],
+		"SA_9": [{
+				"sid": "TAL_34",
+				"sid2": "Puniner Ritus"
+			}, {
+				"sid": "TAL_58",
+				"sid2": 1
+			}
+		],
+		"SA_12": [{
+				"sid": 4
+			}
+		],
+		"SA_16": [{}
+		],
+		"SA_25": [{}
+		],
+		"SA_27": [{
+				"sid": 11
+			}, {
+				"sid": 9
+			}
+		],
+		"SA_29": [{
+				"sid": 17,
+				"tier": 4
+			}, {
+				"sid": 8,
+				"tier": 3
+			}, {
+				"sid": 6,
+				"tier": 2
+			}
+		],
+		"SA_40": [{}
+		],
+		"SA_41": [{
+				"tier": 2
+			}
+		],
+		"SA_48": [{
+				"tier": 1
+			}
+		],
+		"SA_49": [{}
+		],
+		"SA_51": [{
+				"tier": 1
+			}
+		],
+		"SA_62": [{}
+		],
+		"SA_64": [{
+				"tier": 1
+			}
+		],
+		"SA_65": [{}
+		],
+		"SA_66": [{}
+		],
+		"SA_67": [{
+				"tier": 2
+			}
+		]
+	},
+	"talents": {
+		"TAL_1": 1,
+		"TAL_3": 6,
+		"TAL_4": 8,
+		"TAL_5": 5,
+		"TAL_6": 4,
+		"TAL_8": 8,
+		"TAL_9": 2,
+		"TAL_10": 8,
+		"TAL_13": 4,
+		"TAL_14": 9,
+		"TAL_15": 10,
+		"TAL_17": 3,
+		"TAL_18": 6,
+		"TAL_19": 1,
+		"TAL_20": 10,
+		"TAL_21": 6,
+		"TAL_22": 3,
+		"TAL_23": 5,
+		"TAL_24": 5,
+		"TAL_25": 8,
+		"TAL_26": 1,
+		"TAL_27": 5,
+		"TAL_28": 4,
+		"TAL_29": 3,
+		"TAL_30": 7,
+		"TAL_32": 8,
+		"TAL_33": 6,
+		"TAL_34": 13,
+		"TAL_35": 10,
+		"TAL_36": 5,
+		"TAL_37": 3,
+		"TAL_38": 7,
+		"TAL_39": 9,
+		"TAL_40": 7,
+		"TAL_44": 3,
+		"TAL_46": 3,
+		"TAL_49": 2,
+		"TAL_50": 2,
+		"TAL_51": 6,
+		"TAL_52": 1,
+		"TAL_53": 2,
+		"TAL_54": 9,
+		"TAL_55": 11,
+		"TAL_58": 7
+	},
+	"ct": {
+		"CT_1": 8,
+		"CT_3": 8,
+		"CT_5": 14,
+		"CT_9": 12,
+		"CT_10": 16,
+		"CT_13": 11,
+		"CT_14": 14
+	},
+	"spells": {},
+	"cantrips": [],
+	"liturgies": {},
+	"blessings": [],
+	"belongings": {
+		"items": {},
+		"armorZones": {},
+		"purse": {
+			"d": "0",
+			"h": "0",
+			"k": "0",
+			"s": "0"
+		}
+	},
+	"rules": {
+		"higherParadeValues": 0,
+		"attributeValueLimit": false,
+		"enableAllRuleBooks": true,
+		"enableLanguageSpecializations": false,
+		"enabledRuleBooks": []
+	},
+	"pets": {},
+	"id": "H_1524506703699",
+	"dateCreated": "2018-04-23T18:10:10.281Z",
+	"dateModified": "2018-04-23T18:10:10.281Z"
+}
