@@ -4,7 +4,7 @@
 	"name": "Barundar Schwarzbart Bengramssohn",
 	"ap": {
 		"total": 2203,
-		"spent": 1958
+		"spent": 1972
 	},
 	"el": "EL_7",
 	"r": "R_4",
@@ -197,7 +197,7 @@
 		"TAL_3": 7,
 		"TAL_4": 10,
 		"TAL_5": 5,
-		"TAL_6": 5,
+		"TAL_6": 9,
 		"TAL_8": 8,
 		"TAL_9": 3,
 		"TAL_10": 8,
@@ -231,7 +231,7 @@
 		"TAL_46": 3,
 		"TAL_49": 2,
 		"TAL_50": 2,
-		"TAL_51": 6,
+		"TAL_51": 9,
 		"TAL_52": 1,
 		"TAL_53": 2,
 		"TAL_54": 9,
@@ -270,6 +270,6 @@
 	},
 	"pets": {},
 	"id": "H_1524506703699",
-	"dateCreated": "2018-04-23T18:26:07.974Z",
-	"dateModified": "2018-04-23T18:26:07.974Z"
+	"dateCreated": "2018-04-23T18:28:15.925Z",
+	"dateModified": "2018-04-23T18:28:15.925Z"
 }
