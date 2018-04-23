@@ -3,8 +3,8 @@
 	"phase": 3,
 	"name": "Vitus Sanin",
 	"ap": {
-		"total": 1175,
-		"spent": 1166
+		"total": 1325,
+		"spent": 1311
 	},
 	"el": "EL_3",
 	"r": "R_3",
@@ -12,16 +12,17 @@
 	"p": "P_25",
 	"sex": "m",
 	"pers": {
-		"cultureAreaKnowledge": "Gareth"
+		"cultureAreaKnowledge": "Gareth",
+		"socialstatus": 2
 	},
 	"attr": {
-		"values": [["ATTR_1", 14, 0], ["ATTR_2", 15, 1], ["ATTR_3", 14, 0], ["ATTR_4", 13, 0], ["ATTR_5", 12, 0], ["ATTR_6", 10, 0], ["ATTR_7", 12, 0], ["ATTR_8", 10, 0]],
+		"values": [["ATTR_1", 14, 0], ["ATTR_2", 15, 1], ["ATTR_3", 14, 0], ["ATTR_4", 13, 0], ["ATTR_5", 12, 0], ["ATTR_6", 11, 0], ["ATTR_7", 12, 0], ["ATTR_8", 10, 0]],
 		"ae": 0,
 		"kp": 0,
 		"lp": 0,
 		"permanentAE": {
-			"lost": 2,
-			"redeemed": 0
+			"lost": 6,
+			"redeemed": 6
 		},
 		"permanentKP": {
 			"lost": 0,
@@ -86,31 +87,41 @@
 		],
 		"SA_78": [{}
 		],
+		"SA_79": [{}
+		],
 		"SA_80": [{}
 		],
 		"SA_233": [{}
 		],
 		"SA_248": [{}
+		],
+		"SA_270": [{}
+		],
+		"SA_341": [{}
+		],
+		"SA_344": [{
+				"sid": "CT_12"
+			}
 		]
 	},
 	"talents": {
 		"TAL_3": 1,
-		"TAL_4": 4,
+		"TAL_4": 5,
 		"TAL_5": 3,
 		"TAL_6": 6,
 		"TAL_7": 1,
 		"TAL_8": 5,
-		"TAL_10": 4,
+		"TAL_10": 5,
 		"TAL_18": 3,
-		"TAL_20": 1,
-		"TAL_21": 1,
+		"TAL_20": 2,
+		"TAL_21": 2,
 		"TAL_23": 5,
 		"TAL_27": 2,
 		"TAL_28": 1,
 		"TAL_29": 3,
 		"TAL_30": 3,
 		"TAL_31": 2,
-		"TAL_32": 5,
+		"TAL_32": 6,
 		"TAL_33": 6,
 		"TAL_34": 8,
 		"TAL_35": 2,
@@ -118,8 +129,9 @@
 		"TAL_38": 6,
 		"TAL_39": 6,
 		"TAL_40": 5,
-		"TAL_41": 4,
-		"TAL_43": 4,
+		"TAL_41": 5,
+		"TAL_43": 5,
+		"TAL_45": 2,
 		"TAL_50": 3,
 		"TAL_51": 1,
 		"TAL_54": 4,
@@ -129,19 +141,20 @@
 	},
 	"ct": {
 		"CT_3": 8,
-		"CT_12": 11,
+		"CT_12": 13,
 		"CT_13": 11
 	},
 	"spells": {
 		"SPELL_3": 5,
-		"SPELL_8": 6,
+		"SPELL_5": 1,
+		"SPELL_8": 7,
 		"SPELL_14": 5,
 		"SPELL_15": 5,
 		"SPELL_21": 8,
 		"SPELL_31": 4,
 		"SPELL_33": 4
 	},
-	"cantrips": ["CANTRIP_4"],
+	"cantrips": ["CANTRIP_4", "CANTRIP_35"],
 	"liturgies": {},
 	"blessings": [],
 	"belongings": {
@@ -164,5 +177,5 @@
 	"pets": {},
 	"id": "H_1524426971074",
 	"dateCreated": "2018-04-22T14:49:42.567Z",
-	"dateModified": "2018-04-22T20:02:25.077Z"
+	"dateModified": "2018-04-23T16:01:14.559Z"
 }
