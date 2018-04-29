@@ -3,8 +3,8 @@
 	"phase": 3,
 	"name": "Etilius",
 	"ap": {
-		"total": 1170,
-		"spent": 1136
+		"total": 1210,
+		"spent": 1155
 	},
 	"el": "EL_3",
 	"r": "R_1",
@@ -72,6 +72,9 @@
 			}, {
 				"sid": 17,
 				"tier": 2
+			}, {
+				"sid": 10,
+				"tier": 1
 			}
 		],
 		"SA_90": [{}
@@ -100,14 +103,15 @@
 		"TAL_23": 10,
 		"TAL_28": 5,
 		"TAL_29": 3,
-		"TAL_30": 1,
+		"TAL_30": 2,
 		"TAL_32": 1,
-		"TAL_34": 7,
+		"TAL_33": 1,
+		"TAL_34": 8,
 		"TAL_35": 1,
-		"TAL_36": 1,
+		"TAL_36": 2,
 		"TAL_38": 3,
 		"TAL_39": 3,
-		"TAL_40": 3,
+		"TAL_40": 4,
 		"TAL_41": 2,
 		"TAL_42": 7,
 		"TAL_43": 3,
@@ -122,12 +126,12 @@
 	},
 	"ct": {
 		"CT_3": 7,
-		"CT_5": 9
+		"CT_5": 10
 	},
 	"spells": {},
 	"cantrips": [],
 	"liturgies": {
-		"LITURGY_2": 8,
+		"LITURGY_2": 9,
 		"LITURGY_3": 8,
 		"LITURGY_36": 8,
 		"LITURGY_14": 10,
@@ -154,7 +158,7 @@
 		"enabledRuleBooks": []
 	},
 	"pets": {},
-	"id": "H_1525015947851",
+	"id": "H_1525021743439",
 	"dateCreated": "2018-04-29T15:27:25.606Z",
-	"dateModified": "2018-04-29T15:38:19.339Z"
+	"dateModified": "2018-04-29T17:10:36.270Z"
 }
