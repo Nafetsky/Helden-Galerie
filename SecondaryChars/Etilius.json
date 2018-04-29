@@ -1,0 +1,151 @@
+{
+	"clientVersion": "1.0.2",
+	"phase": 2,
+	"name": "Etilius",
+	"ap": {
+		"total": 1100,
+		"spent": 1086
+	},
+	"el": "EL_3",
+	"r": "R_1",
+	"rv": "RV_1",
+	"c": "C_8",
+	"p": "P_26",
+	"sex": "m",
+	"pers": {
+		"haircolor": 16
+	},
+	"attr": {
+		"values": [["ATTR_1", 14, 1], ["ATTR_2", 13, 0], ["ATTR_3", 14, 0], ["ATTR_4", 14, 0], ["ATTR_5", 12, 0], ["ATTR_6", 11, 0], ["ATTR_7", 11, 0], ["ATTR_8", 11, 0]],
+		"ae": 0,
+		"kp": 0,
+		"lp": 0,
+		"permanentAE": {
+			"lost": 0,
+			"redeemed": 0
+		},
+		"permanentKP": {
+			"lost": 0,
+			"redeemed": 0
+		}
+	},
+	"activatable": {
+		"ADV_4": [{
+				"sid": "TAL_49"
+			}
+		],
+		"ADV_12": [{}
+		],
+		"DISADV_2": [{
+				"tier": 1
+			}
+		],
+		"DISADV_34": [{
+				"sid": 8,
+				"tier": 2
+			}
+		],
+		"DISADV_50": [{
+				"sid": "Tempel, Kirche",
+				"tier": 2
+			}
+		],
+		"DISADV_51": [{
+				"sid": 2
+			}
+		],
+		"SA_27": [{
+				"sid": 9
+			}, {
+				"sid": 7
+			}
+		],
+		"SA_29": [{
+				"sid": 8,
+				"tier": 4
+			}, {
+				"sid": 5,
+				"tier": 2
+			}, {
+				"sid": 6,
+				"tier": 2
+			}, {
+				"sid": 17,
+				"tier": 2
+			}
+		],
+		"SA_90": [{}
+		],
+		"SA_683": [{}
+		]
+	},
+	"talents": {
+		"TAL_3": 1,
+		"TAL_4": 1,
+		"TAL_5": 1,
+		"TAL_7": 1,
+		"TAL_8": 6,
+		"TAL_10": 4,
+		"TAL_13": 3,
+		"TAL_14": 3,
+		"TAL_15": 10,
+		"TAL_18": 3,
+		"TAL_19": 1,
+		"TAL_20": 10,
+		"TAL_21": 3,
+		"TAL_23": 10,
+		"TAL_28": 5,
+		"TAL_29": 3,
+		"TAL_34": 6,
+		"TAL_35": 1,
+		"TAL_38": 3,
+		"TAL_39": 3,
+		"TAL_40": 3,
+		"TAL_41": 2,
+		"TAL_42": 7,
+		"TAL_43": 3,
+		"TAL_47": 2,
+		"TAL_48": 3,
+		"TAL_49": 10,
+		"TAL_50": 3,
+		"TAL_51": 1,
+		"TAL_55": 1,
+		"TAL_59": 1
+	},
+	"ct": {
+		"CT_3": 7,
+		"CT_5": 9
+	},
+	"spells": {},
+	"cantrips": [],
+	"liturgies": {
+		"LITURGY_2": 8,
+		"LITURGY_3": 8,
+		"LITURGY_36": 8,
+		"LITURGY_14": 10,
+		"LITURGY_40": 4,
+		"LITURGY_26": 4
+	},
+	"blessings": ["BLESSING_1", "BLESSING_2", "BLESSING_3", "BLESSING_4", "BLESSING_5", "BLESSING_6", "BLESSING_7", "BLESSING_8", "BLESSING_9", "BLESSING_10", "BLESSING_11", "BLESSING_12"],
+	"belongings": {
+		"items": {},
+		"armorZones": {},
+		"purse": {
+			"d": "0",
+			"h": "0",
+			"k": "0",
+			"s": "0"
+		}
+	},
+	"rules": {
+		"higherParadeValues": 0,
+		"attributeValueLimit": false,
+		"enableAllRuleBooks": true,
+		"enableLanguageSpecializations": false,
+		"enabledRuleBooks": []
+	},
+	"pets": {},
+	"id": "H_1525015186280",
+	"dateCreated": "2018-04-29T15:23:09.798Z",
+	"dateModified": "2018-04-29T15:23:09.798Z"
+}
