@@ -3,8 +3,8 @@
 	"phase": 2,
 	"name": "Etilius",
 	"ap": {
-		"total": 1100,
-		"spent": 1086
+		"total": 1120,
+		"spent": 1088
 	},
 	"el": "EL_3",
 	"r": "R_1",
@@ -124,7 +124,8 @@
 		"LITURGY_36": 8,
 		"LITURGY_14": 10,
 		"LITURGY_40": 4,
-		"LITURGY_26": 4
+		"LITURGY_26": 4,
+		"LITURGY_182": 0
 	},
 	"blessings": ["BLESSING_1", "BLESSING_2", "BLESSING_3", "BLESSING_4", "BLESSING_5", "BLESSING_6", "BLESSING_7", "BLESSING_8", "BLESSING_9", "BLESSING_10", "BLESSING_11", "BLESSING_12"],
 	"belongings": {
@@ -146,6 +147,6 @@
 	},
 	"pets": {},
 	"id": "H_1525015186280",
-	"dateCreated": "2018-04-29T15:23:09.798Z",
-	"dateModified": "2018-04-29T15:23:09.798Z"
+	"dateCreated": "2018-04-29T15:27:25.606Z",
+	"dateModified": "2018-04-29T15:27:25.606Z"
 }
