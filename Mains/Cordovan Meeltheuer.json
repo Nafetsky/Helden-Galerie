@@ -1,0 +1,181 @@
+{
+	"clientVersion": "1.0.2",
+	"phase": 2,
+	"name": "Cordovan Meeltheuer",
+	"ap": {
+		"total": 986,
+		"spent": 977
+	},
+	"el": "EL_3",
+	"r": "R_1",
+	"rv": "RV_1",
+	"c": "C_8",
+	"p": "P_0",
+	"sex": "m",
+	"pers": {
+		"cultureAreaKnowledge": "Dorp",
+		"family": "Meeltheuer",
+		"placeofbirth": "Dorp",
+		"haircolor": 16,
+		"eyecolor": 9,
+		"size": "171",
+		"weight": "70",
+		"socialstatus": 2
+	},
+	"attr": {
+		"values": [["ATTR_1", 14, 0], ["ATTR_2", 10, 0], ["ATTR_3", 13, 0], ["ATTR_4", 13, 0], ["ATTR_5", 13, 0], ["ATTR_6", 14, 1], ["ATTR_7", 12, 0], ["ATTR_8", 12, 0]],
+		"ae": 0,
+		"kp": 0,
+		"lp": 0,
+		"permanentAE": {
+			"lost": 0,
+			"redeemed": 0
+		},
+		"permanentKP": {
+			"lost": 0,
+			"redeemed": 0
+		}
+	},
+	"activatable": {
+		"ADV_8": [{}
+		],
+		"ADV_37": [{}
+		],
+		"ADV_51": [{}
+		],
+		"ADV_69": [{
+				"tier": 2
+			}
+		],
+		"DISADV_29": [{}
+		],
+		"DISADV_33": [{
+				"sid": 1
+			}, {
+				"sid": 6
+			}
+		],
+		"DISADV_35": [{}
+		],
+		"DISADV_36": [{
+				"sid": 10
+			}
+		],
+		"DISADV_37": [{
+				"sid": 1
+			}, {
+				"sid": 8
+			}
+		],
+		"SA_9": [{
+				"sid": "TAL_28",
+				"sid2": 3
+			}, {
+				"sid": "TAL_29",
+				"sid2": 1
+			}
+		],
+		"SA_12": [{
+				"sid": 3
+			}, {
+				"sid": 9
+			}
+		],
+		"SA_18": [{}
+		],
+		"SA_22": [{
+				"sid": "Falkenruh"
+			}
+		],
+		"SA_29": [{
+				"sid": 8,
+				"tier": 4
+			}, {
+				"sid": 23,
+				"tier": 2
+			}
+		],
+		"SA_32": [{}
+		],
+		"SA_40": [{}
+		],
+		"SA_55": [{
+				"tier": 1
+			}
+		],
+		"SA_60": [{
+				"sid": 2
+			}
+		]
+	},
+	"talents": {
+		"TAL_3": 4,
+		"TAL_4": 5,
+		"TAL_6": 2,
+		"TAL_8": 2,
+		"TAL_10": 7,
+		"TAL_13": 4,
+		"TAL_14": 4,
+		"TAL_18": 1,
+		"TAL_19": 1,
+		"TAL_20": 4,
+		"TAL_21": 4,
+		"TAL_23": 1,
+		"TAL_24": 8,
+		"TAL_25": 4,
+		"TAL_26": 1,
+		"TAL_27": 8,
+		"TAL_28": 8,
+		"TAL_29": 6,
+		"TAL_30": 8,
+		"TAL_32": 5,
+		"TAL_34": 3,
+		"TAL_35": 2,
+		"TAL_37": 1,
+		"TAL_40": 3,
+		"TAL_44": 1,
+		"TAL_45": 2,
+		"TAL_47": 4,
+		"TAL_50": 4,
+		"TAL_51": 7,
+		"TAL_52": 1,
+		"TAL_53": 4,
+		"TAL_54": 1,
+		"TAL_55": 6,
+		"TAL_59": 1
+	},
+	"ct": {
+		"CT_2": 12,
+		"CT_3": 8,
+		"CT_5": 7,
+		"CT_9": 8,
+		"CT_12": 7,
+		"CT_13": 8,
+		"CT_14": 8
+	},
+	"spells": {},
+	"cantrips": [],
+	"liturgies": {},
+	"blessings": [],
+	"belongings": {
+		"items": {},
+		"armorZones": {},
+		"purse": {
+			"d": "0",
+			"h": "0",
+			"k": "0",
+			"s": "0"
+		}
+	},
+	"rules": {
+		"higherParadeValues": 0,
+		"attributeValueLimit": false,
+		"enableAllRuleBooks": true,
+		"enableLanguageSpecializations": false,
+		"enabledRuleBooks": []
+	},
+	"pets": {},
+	"id": "H_1527529321991",
+	"dateCreated": "2018-05-28T17:36:35.820Z",
+	"dateModified": "2018-05-28T17:50:56.129Z"
+}
