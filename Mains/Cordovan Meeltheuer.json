@@ -1,10 +1,10 @@
 {
 	"clientVersion": "1.0.2",
-	"phase": 2,
+	"phase": 3,
 	"name": "Cordovan Meeltheuer",
 	"ap": {
-		"total": 986,
-		"spent": 977
+		"total": 996,
+		"spent": 985
 	},
 	"el": "EL_3",
 	"r": "R_1",
@@ -127,9 +127,9 @@
 		"TAL_27": 8,
 		"TAL_28": 8,
 		"TAL_29": 6,
-		"TAL_30": 8,
-		"TAL_32": 5,
-		"TAL_34": 3,
+		"TAL_30": 9,
+		"TAL_32": 6,
+		"TAL_34": 4,
 		"TAL_35": 2,
 		"TAL_37": 1,
 		"TAL_40": 3,
@@ -142,6 +142,7 @@
 		"TAL_53": 4,
 		"TAL_54": 1,
 		"TAL_55": 6,
+		"TAL_58": 1,
 		"TAL_59": 1
 	},
 	"ct": {
@@ -177,5 +178,5 @@
 	"pets": {},
 	"id": "H_1527529321991",
 	"dateCreated": "2018-05-28T17:36:35.820Z",
-	"dateModified": "2018-05-28T17:50:56.129Z"
+	"dateModified": "2018-05-28T17:55:27.592Z"
 }
