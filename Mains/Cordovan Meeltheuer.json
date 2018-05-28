@@ -3,7 +3,7 @@
 	"phase": 3,
 	"name": "Cordovan Meeltheuer",
 	"ap": {
-		"total": 1148,
+		"total": 1184,
 		"spent": 1082
 	},
 	"el": "EL_3",
@@ -184,5 +184,5 @@
 	"pets": {},
 	"id": "H_1527529321991",
 	"dateCreated": "2018-05-28T17:36:35.820Z",
-	"dateModified": "2018-05-28T18:15:48.246Z"
+	"dateModified": "2018-05-28T18:24:52.627Z"
 }
