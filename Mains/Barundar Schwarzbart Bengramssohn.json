@@ -3,8 +3,8 @@
 	"phase": 2,
 	"name": "Barundar Schwarzbart Bengramssohn",
 	"ap": {
-		"total": 2209,
-		"spent": 2047
+		"total": 2211,
+		"spent": 2055
 	},
 	"el": "EL_7",
 	"r": "R_4",
@@ -206,7 +206,7 @@
 		"TAL_13": 5,
 		"TAL_14": 10,
 		"TAL_15": 10,
-		"TAL_17": 3,
+		"TAL_17": 5,
 		"TAL_18": 6,
 		"TAL_19": 1,
 		"TAL_20": 10,
@@ -232,7 +232,7 @@
 		"TAL_41": 2,
 		"TAL_44": 3,
 		"TAL_45": 2,
-		"TAL_46": 3,
+		"TAL_46": 5,
 		"TAL_49": 2,
 		"TAL_50": 2,
 		"TAL_51": 10,
@@ -273,7 +273,7 @@
 		"enabledRuleBooks": []
 	},
 	"pets": {},
-	"id": "H_1527627099721",
+	"id": "H_1527627728493",
 	"dateCreated": "2018-04-23T18:28:15.925Z",
-	"dateModified": "2018-05-29T20:58:32.074Z"
+	"dateModified": "2018-05-29T21:02:48.617Z"
 }
