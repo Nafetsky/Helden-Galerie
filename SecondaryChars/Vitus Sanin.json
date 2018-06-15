@@ -3,7 +3,7 @@
 	"phase": 3,
 	"name": "Vitus Sanin",
 	"ap": {
-		"total": 1325,
+		"total": 1350,
 		"spent": 1309
 	},
 	"el": "EL_3",
@@ -175,7 +175,7 @@
 		"enabledRuleBooks": []
 	},
 	"pets": {},
-	"id": "H_1524426971074",
+	"id": "H_1529094417518",
 	"dateCreated": "2018-04-22T14:49:42.567Z",
-	"dateModified": "2018-04-23T16:01:14.559Z"
+	"dateModified": "2018-06-15T22:35:53.366Z"
 }
