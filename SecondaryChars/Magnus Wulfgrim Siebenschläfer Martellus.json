@@ -3,8 +3,8 @@
 	"phase": 3,
 	"name": "Magnus  \"Wulfgrim Siebenschläfer\" Martellus",
 	"ap": {
-		"total": 1100,
-		"spent": 1100
+		"total": 1115,
+		"spent": 1109
 	},
 	"el": "EL_3",
 	"r": "R_1",
@@ -109,8 +109,10 @@
 		"TAL_25": 2,
 		"TAL_28": 2,
 		"TAL_29": 2,
+		"TAL_30": 1,
+		"TAL_32": 1,
 		"TAL_33": 2,
-		"TAL_34": 3,
+		"TAL_34": 4,
 		"TAL_36": 6,
 		"TAL_38": 4,
 		"TAL_39": 3,
@@ -139,7 +141,7 @@
 		"SPELL_133": 5,
 		"SPELL_143": 3,
 		"SPELL_152": 8,
-		"SPELL_179": 5
+		"SPELL_179": 6
 	},
 	"cantrips": ["CANTRIP_22"],
 	"liturgies": {},
@@ -317,5 +319,5 @@
 	"pets": {},
 	"id": "H_1524503647070",
 	"dateCreated": "2018-04-23T17:14:07.070Z",
-	"dateModified": "2018-04-23T17:14:07.070Z"
+	"dateModified": "2018-08-11T13:05:40.188Z"
 }
