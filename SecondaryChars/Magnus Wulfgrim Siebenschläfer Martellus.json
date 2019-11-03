@@ -4,7 +4,7 @@
 	"name": "Magnus  \"Wulfgrim Siebenschläfer\" Martellus",
 	"ap": {
 		"total": 1160,
-		"spent": 1128
+		"spent": 1138
 	},
 	"el": "EL_3",
 	"r": "R_1",
@@ -32,7 +32,7 @@
 		"lp": 0,
 		"permanentAE": {
 			"lost": 4,
-			"redeemed": 0
+			"redeemed": 4
 		},
 		"permanentKP": {
 			"lost": 0,
@@ -143,7 +143,7 @@
 		"SPELL_143": 3,
 		"SPELL_30": 4,
 		"SPELL_152": 9,
-		"SPELL_179": 6
+		"SPELL_179": 7
 	},
 	"cantrips": ["CANTRIP_22"],
 	"liturgies": {},
@@ -321,5 +321,5 @@
 	"pets": {},
 	"id": "H_1572787245793",
 	"dateCreated": "2018-04-23T17:14:07.070Z",
-	"dateModified": "2019-11-03T13:23:05.389Z"
+	"dateModified": "2019-11-03T13:28:24.578Z"
 }
