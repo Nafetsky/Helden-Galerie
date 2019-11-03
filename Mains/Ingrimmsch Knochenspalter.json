@@ -1,0 +1,269 @@
+{
+	"clientVersion": "1.1.2",
+	"dateCreated": "2018-04-29T20:53:11.561Z",
+	"dateModified": "2019-11-03T14:18:05.532Z",
+	"id": "H_1572790436147",
+	"phase": 3,
+	"name": "Ingrimmsch Knochenspalter",
+	"ap": {
+		"total": 1814
+	},
+	"el": "EL_6",
+	"r": "R_4",
+	"c": "C_22",
+	"p": "P_0",
+	"professionName": "Schwerer Baron",
+	"sex": "m",
+	"pers": {
+		"age": "82",
+		"haircolor": 23,
+		"eyecolor": 11,
+		"socialstatus": 2,
+		"otherinfo": "",
+		"cultureAreaKnowledge": "Retogau"
+	},
+	"attr": {
+		"values": [{
+				"id": "ATTR_1",
+				"value": 17
+			}, {
+				"id": "ATTR_2",
+				"value": 11
+			}, {
+				"id": "ATTR_3",
+				"value": 11
+			}, {
+				"id": "ATTR_4",
+				"value": 12
+			}, {
+				"id": "ATTR_5",
+				"value": 12
+			}, {
+				"id": "ATTR_6",
+				"value": 12
+			}, {
+				"id": "ATTR_7",
+				"value": 16
+			}, {
+				"id": "ATTR_8",
+				"value": 16
+			}
+		],
+		"attributeAdjustmentSelected": "ATTR_6",
+		"ae": 0,
+		"kp": 0,
+		"lp": 0,
+		"permanentAE": {
+			"lost": 0,
+			"redeemed": 0
+		},
+		"permanentKP": {
+			"lost": 0,
+			"redeemed": 0
+		},
+		"permanentLP": {
+			"lost": 0
+		}
+	},
+	"activatable": {
+		"ADV_6": [{
+				"cost": 10,
+				"tier": 2
+			}
+		],
+		"ADV_25": [{
+				"tier": 4
+			}
+		],
+		"ADV_28": [{
+				"sid": 3
+			}
+		],
+		"ADV_31": [{
+				"tier": 1
+			}
+		],
+		"ADV_39": [{}
+		],
+		"ADV_49": [{}
+		],
+		"ADV_16": [],
+		"ADV_4": [],
+		"ADV_66": [{}
+		],
+		"ADV_55": [{}
+		],
+		"ADV_54": [{}
+		],
+		"ADV_75": [{}
+		],
+		"DISADV_1": [{
+				"sid": "freie Fläche",
+				"tier": 1
+			}, {
+				"sid": 5,
+				"tier": 3
+			}
+		],
+		"DISADV_33": [{
+				"sid": 1
+			}, {
+				"sid2": "Magiebegabte",
+				"sid": 7
+			}
+		],
+		"DISADV_34": [{
+				"sid": 10,
+				"tier": 2
+			}, {
+				"sid": "Leibwächster",
+				"tier": 1
+			}
+		],
+		"DISADV_37": [{
+				"sid": 4
+			}, {
+				"sid": 1
+			}
+		],
+		"DISADV_48": [{
+				"sid": "TAL_7"
+			}
+		],
+		"DISADV_50": [{
+				"sid": "Retogau",
+				"tier": 2
+			}
+		],
+		"DISADV_51": [{
+				"cost": 0,
+				"sid": 3
+			}
+		],
+		"DISADV_55": [],
+		"DISADV_21": [],
+		"DISADV_28": [],
+		"DISADV_25": [],
+		"DISADV_5": [],
+		"SA_2": [{}
+		],
+		"SA_12": [{
+				"sid": 4
+			}
+		],
+		"SA_16": [{}
+		],
+		"SA_25": [{}
+		],
+		"SA_27": [{
+				"sid": 9
+			}
+		],
+		"SA_29": [{
+				"sid": 17,
+				"tier": 4
+			}, {
+				"sid": 8,
+				"tier": 3
+			}
+		],
+		"SA_40": [{}
+		],
+		"SA_41": [{
+				"tier": 1
+			}
+		],
+		"SA_48": [{
+				"tier": 1
+			}
+		],
+		"SA_51": [{
+				"tier": 1
+			}
+		],
+		"SA_59": [{}
+		],
+		"SA_66": [{}
+		],
+		"SA_67": [{
+				"tier": 2
+			}
+		],
+		"SA_147": [{}
+		]
+	},
+	"talents": {
+		"TAL_3": 7,
+		"TAL_4": 7,
+		"TAL_5": 2,
+		"TAL_6": 5,
+		"TAL_8": 5,
+		"TAL_10": 7,
+		"TAL_13": 4,
+		"TAL_14": 7,
+		"TAL_15": 8,
+		"TAL_17": 1,
+		"TAL_18": 9,
+		"TAL_19": 6,
+		"TAL_20": 9,
+		"TAL_21": 6,
+		"TAL_23": 9,
+		"TAL_24": 5,
+		"TAL_25": 3,
+		"TAL_26": 1,
+		"TAL_27": 4,
+		"TAL_29": 4,
+		"TAL_30": 6,
+		"TAL_32": 8,
+		"TAL_33": 3,
+		"TAL_34": 10,
+		"TAL_35": 13,
+		"TAL_36": 2,
+		"TAL_37": 4,
+		"TAL_38": 6,
+		"TAL_39": 11,
+		"TAL_40": 6,
+		"TAL_41": 1,
+		"TAL_44": 8,
+		"TAL_46": 6,
+		"TAL_49": 4,
+		"TAL_50": 9,
+		"TAL_51": 6,
+		"TAL_52": 1,
+		"TAL_53": 2,
+		"TAL_55": 3,
+		"TAL_58": 5,
+		"TAL_59": 2
+	},
+	"ct": {
+		"CT_1": 10,
+		"CT_3": 8,
+		"CT_5": 10,
+		"CT_9": 9,
+		"CT_12": 10,
+		"CT_15": 17,
+		"CT_16": 8
+	},
+	"spells": {},
+	"cantrips": [],
+	"liturgies": {},
+	"blessings": [],
+	"belongings": {
+		"items": {},
+		"armorZones": {},
+		"purse": {
+			"d": "0",
+			"s": "0",
+			"h": "0",
+			"k": "0"
+		}
+	},
+	"rules": {
+		"higherParadeValues": 0,
+		"attributeValueLimit": false,
+		"enableAllRuleBooks": true,
+		"enabledRuleBooks": [],
+		"enableLanguageSpecializations": false
+	},
+	"pets": {}
+}
