@@ -3,8 +3,8 @@
 	"phase": 3,
 	"name": "Magnus  \"Wulfgrim Siebenschläfer\" Martellus",
 	"ap": {
-		"total": 1115,
-		"spent": 1109
+		"total": 1150,
+		"spent": 1125
 	},
 	"el": "EL_3",
 	"r": "R_1",
@@ -98,12 +98,14 @@
 		]
 	},
 	"talents": {
-		"TAL_4": 1,
+		"TAL_3": 1,
+		"TAL_4": 2,
 		"TAL_8": 4,
 		"TAL_10": 4,
+		"TAL_13": 1,
 		"TAL_15": 4,
 		"TAL_18": 1,
-		"TAL_20": 4,
+		"TAL_20": 5,
 		"TAL_21": 4,
 		"TAL_23": 5,
 		"TAL_25": 2,
@@ -135,7 +137,7 @@
 		"SPELL_22": 3,
 		"SPELL_30": 4,
 		"SPELL_79": 8,
-		"SPELL_89": 4,
+		"SPELL_89": 5,
 		"SPELL_114": 4,
 		"SPELL_129": 4,
 		"SPELL_133": 5,
@@ -317,7 +319,7 @@
 		"enabledRuleBooks": []
 	},
 	"pets": {},
-	"id": "H_1524503647070",
+	"id": "H_1572786562110",
 	"dateCreated": "2018-04-23T17:14:07.070Z",
-	"dateModified": "2018-08-11T13:05:40.188Z"
+	"dateModified": "2019-11-03T13:17:33.855Z"
 }
