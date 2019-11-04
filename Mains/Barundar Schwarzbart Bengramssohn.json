@@ -1,10 +1,12 @@
 {
-	"clientVersion": "1.0.2",
+	"clientVersion": "1.1.2",
+	"dateCreated": "2018-04-23T18:28:15.925Z",
+	"dateModified": "2019-11-04T18:10:18.726Z",
+	"id": "H_1572890922702",
 	"phase": 3,
 	"name": "Barundar Schwarzbart Bengramssohn",
 	"ap": {
-		"total": 2221,
-		"spent": 2099
+		"total": 2311
 	},
 	"el": "EL_7",
 	"r": "R_4",
@@ -18,7 +20,33 @@
 		"socialstatus": 2
 	},
 	"attr": {
-		"values": [["ATTR_1", 16, 0], ["ATTR_2", 14, 0], ["ATTR_3", 14, 0], ["ATTR_4", 10, -2], ["ATTR_5", 9, 0], ["ATTR_6", 14, 0], ["ATTR_7", 16, 1], ["ATTR_8", 16, 1]],
+		"values": [{
+				"id": "ATTR_1",
+				"value": 16
+			}, {
+				"id": "ATTR_2",
+				"value": 14
+			}, {
+				"id": "ATTR_3",
+				"value": 14
+			}, {
+				"id": "ATTR_4",
+				"value": 10
+			}, {
+				"id": "ATTR_5",
+				"value": 9
+			}, {
+				"id": "ATTR_6",
+				"value": 14
+			}, {
+				"id": "ATTR_7",
+				"value": 16
+			}, {
+				"id": "ATTR_8",
+				"value": 16
+			}
+		],
+		"attributeAdjustmentSelected": "ATTR_6",
 		"ae": 0,
 		"kp": 0,
 		"lp": 0,
@@ -29,12 +57,15 @@
 		"permanentKP": {
 			"lost": 0,
 			"redeemed": 0
+		},
+		"permanentLP": {
+			"lost": 0
 		}
 	},
 	"activatable": {
 		"ADV_1": [{
-				"tier": 1,
-				"cost": 0
+				"cost": 0,
+				"tier": 1
 			}
 		],
 		"ADV_6": [{
@@ -42,8 +73,8 @@
 			}
 		],
 		"ADV_13": [{
-				"tier": 1,
-				"cost": 5
+				"cost": 5,
+				"tier": 1
 			}
 		],
 		"ADV_28": [{
@@ -64,14 +95,16 @@
 		],
 		"ADV_75": [{}
 		],
+		"ADV_16": [],
+		"ADV_4": [],
 		"DISADV_1": [{
 				"sid": 5,
 				"tier": 2
 			}
 		],
 		"DISADV_33": [{
-				"sid": 7,
-				"sid2": "Magiebegabte"
+				"sid2": "Magiebegabte",
+				"sid": 7
 			}
 		],
 		"DISADV_34": [{
@@ -90,11 +123,19 @@
 			}
 		],
 		"DISADV_50": [{
+				"cost": 0,
 				"sid": "Mittelreich",
-				"tier": 1,
-				"cost": 0
+				"tier": 1
 			}
 		],
+		"DISADV_55": [],
+		"DISADV_21": [],
+		"DISADV_25": [],
+		"DISADV_71": [],
+		"DISADV_51": [],
+		"DISADV_12": [],
+		"DISADV_4": [],
+		"DISADV_5": [],
 		"SA_3": [{
 				"sid": 74
 			}, {
@@ -106,14 +147,14 @@
 			}
 		],
 		"SA_9": [{
-				"sid": "TAL_34",
-				"sid2": "Puniner Ritus"
+				"sid2": "Puniner Ritus",
+				"sid": "TAL_34"
 			}, {
-				"sid": "TAL_58",
-				"sid2": 1
+				"sid2": 1,
+				"sid": "TAL_58"
 			}, {
-				"sid": "TAL_55",
-				"sid2": -4
+				"sid2": -4,
+				"sid": "TAL_55"
 			}
 		],
 		"SA_12": [{
@@ -264,20 +305,17 @@
 		"armorZones": {},
 		"purse": {
 			"d": "0",
+			"s": "0",
 			"h": "0",
-			"k": "0",
-			"s": "0"
+			"k": "0"
 		}
 	},
 	"rules": {
 		"higherParadeValues": 0,
 		"attributeValueLimit": false,
 		"enableAllRuleBooks": true,
-		"enableLanguageSpecializations": false,
-		"enabledRuleBooks": []
+		"enabledRuleBooks": [],
+		"enableLanguageSpecializations": false
 	},
-	"pets": {},
-	"id": "H_1572785349298",
-	"dateCreated": "2018-04-23T18:28:15.925Z",
-	"dateModified": "2019-11-03T12:54:01.814Z"
+	"pets": {}
 }
