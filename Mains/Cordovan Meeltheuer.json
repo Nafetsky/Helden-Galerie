@@ -1,10 +1,12 @@
 {
-	"clientVersion": "1.0.2",
+	"clientVersion": "1.1.2",
+	"dateCreated": "2018-05-28T17:36:35.820Z",
+	"dateModified": "2019-11-04T19:38:07.984Z",
+	"id": "H_1572895215799",
 	"phase": 3,
 	"name": "Cordovan Meeltheuer",
 	"ap": {
-		"total": 1196,
-		"spent": 1093
+		"total": 1246
 	},
 	"el": "EL_3",
 	"r": "R_1",
@@ -13,17 +15,43 @@
 	"p": "P_0",
 	"sex": "m",
 	"pers": {
-		"cultureAreaKnowledge": "Dorp",
 		"family": "Meeltheuer",
 		"placeofbirth": "Dorp",
 		"haircolor": 16,
 		"eyecolor": 9,
 		"size": "171",
 		"weight": "70",
-		"socialstatus": 2
+		"socialstatus": 2,
+		"cultureAreaKnowledge": "Dorp"
 	},
 	"attr": {
-		"values": [["ATTR_1", 14, 0], ["ATTR_2", 11, 0], ["ATTR_3", 13, 0], ["ATTR_4", 13, 0], ["ATTR_5", 13, 0], ["ATTR_6", 14, 1], ["ATTR_7", 12, 0], ["ATTR_8", 12, 0]],
+		"values": [{
+				"id": "ATTR_1",
+				"value": 14
+			}, {
+				"id": "ATTR_2",
+				"value": 11
+			}, {
+				"id": "ATTR_3",
+				"value": 13
+			}, {
+				"id": "ATTR_4",
+				"value": 13
+			}, {
+				"id": "ATTR_5",
+				"value": 13
+			}, {
+				"id": "ATTR_6",
+				"value": 14
+			}, {
+				"id": "ATTR_7",
+				"value": 12
+			}, {
+				"id": "ATTR_8",
+				"value": 12
+			}
+		],
+		"attributeAdjustmentSelected": "ATTR_6",
 		"ae": 0,
 		"kp": 0,
 		"lp": 0,
@@ -34,6 +62,9 @@
 		"permanentKP": {
 			"lost": 0,
 			"redeemed": 0
+		},
+		"permanentLP": {
+			"lost": 0
 		}
 	},
 	"activatable": {
@@ -47,6 +78,7 @@
 				"tier": 2
 			}
 		],
+		"ADV_26": [],
 		"DISADV_29": [{}
 		],
 		"DISADV_33": [{
@@ -67,15 +99,20 @@
 				"sid": 8
 			}
 		],
+		"DISADV_48": [],
+		"DISADV_51": [],
+		"DISADV_11": [],
+		"DISADV_7": [],
+		"DISADV_5": [],
 		"SA_9": [{
-				"sid": "TAL_28",
-				"sid2": 3
+				"sid2": 3,
+				"sid": "TAL_28"
 			}, {
-				"sid": "TAL_29",
-				"sid2": 1
+				"sid2": 1,
+				"sid": "TAL_29"
 			}, {
-				"sid": "TAL_30",
-				"sid2": 2
+				"sid2": 2,
+				"sid": "TAL_30"
 			}
 		],
 		"SA_12": [{
@@ -127,13 +164,13 @@
 		"TAL_14": 6,
 		"TAL_18": 1,
 		"TAL_19": 2,
-		"TAL_20": 4,
+		"TAL_20": 5,
 		"TAL_21": 4,
 		"TAL_23": 2,
 		"TAL_24": 8,
 		"TAL_25": 4,
 		"TAL_26": 1,
-		"TAL_27": 8,
+		"TAL_27": 9,
 		"TAL_28": 9,
 		"TAL_29": 8,
 		"TAL_30": 9,
@@ -162,7 +199,7 @@
 		"CT_5": 7,
 		"CT_9": 9,
 		"CT_12": 7,
-		"CT_13": 8,
+		"CT_13": 9,
 		"CT_14": 8
 	},
 	"spells": {},
@@ -174,20 +211,22 @@
 		"armorZones": {},
 		"purse": {
 			"d": "0",
+			"s": "0",
 			"h": "0",
-			"k": "0",
-			"s": "0"
+			"k": "0"
 		}
 	},
 	"rules": {
 		"higherParadeValues": 0,
 		"attributeValueLimit": false,
 		"enableAllRuleBooks": true,
-		"enableLanguageSpecializations": false,
-		"enabledRuleBooks": []
+		"enabledRuleBooks": [],
+		"enableLanguageSpecializations": false
 	},
-	"pets": {},
-	"id": "H_1527529321991",
-	"dateCreated": "2018-05-28T17:36:35.820Z",
-	"dateModified": "2018-05-28T18:28:01.915Z"
+	"pets": {
+		"PET_1": {
+			"id": "PET_1",
+			"name": "Katze"
+		}
+	}
 }
