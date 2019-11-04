@@ -1,7 +1,7 @@
 {
 	"clientVersion": "1.1.2",
 	"dateCreated": "2018-05-28T17:36:35.820Z",
-	"dateModified": "2019-11-04T19:38:07.984Z",
+	"dateModified": "2019-11-04T19:49:33.941Z",
 	"id": "H_1572895215799",
 	"phase": 3,
 	"name": "Cordovan Meeltheuer",
@@ -22,6 +22,7 @@
 		"size": "171",
 		"weight": "70",
 		"socialstatus": 2,
+		"otherinfo": "Umrennen, Loyalität Katze 5, Versteck finden",
 		"cultureAreaKnowledge": "Dorp"
 	},
 	"attr": {
@@ -106,6 +107,9 @@
 		"DISADV_5": [],
 		"SA_9": [{
 				"sid2": 3,
+				"sid": "TAL_24"
+			}, {
+				"sid2": 3,
 				"sid": "TAL_28"
 			}, {
 				"sid2": 1,
@@ -152,6 +156,10 @@
 		"SA_153": [{}
 		],
 		"SA_426": [{}
+		],
+		"SA_152": [{
+				"tier": 1
+			}
 		]
 	},
 	"talents": {
