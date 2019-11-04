@@ -1,7 +1,7 @@
 {
 	"clientVersion": "1.1.2",
 	"dateCreated": "2018-04-22T14:49:42.567Z",
-	"dateModified": "2019-11-04T18:02:20.424Z",
+	"dateModified": "2019-11-04T18:05:24.928Z",
 	"id": "H_1572888887672",
 	"phase": 3,
 	"name": "Vitus Sanin",
@@ -172,7 +172,8 @@
 		"TAL_54": 4,
 		"TAL_55": 1,
 		"TAL_58": 1,
-		"TAL_59": 1
+		"TAL_59": 1,
+		"TAL_16": 3
 	},
 	"ct": {
 		"CT_3": 7,
