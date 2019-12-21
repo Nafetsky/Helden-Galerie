@@ -1,9 +1,10 @@
 {
-	"clientVersion": "1.1.2",
+	"clientVersion": "1.2.0",
 	"dateCreated": "2018-04-23T18:28:15.925Z",
-	"dateModified": "2019-11-04T18:10:18.726Z",
+	"dateModified": "2019-12-21T17:37:38.478Z",
 	"id": "H_1572890922702",
 	"phase": 3,
+	"locale": "de-DE",
 	"name": "Barundar Schwarzbart Bengramssohn",
 	"ap": {
 		"total": 2311
@@ -285,7 +286,8 @@
 		"TAL_53": 2,
 		"TAL_54": 9,
 		"TAL_55": 11,
-		"TAL_58": 8
+		"TAL_58": 8,
+		"TAL_16": 3
 	},
 	"ct": {
 		"CT_1": 8,
