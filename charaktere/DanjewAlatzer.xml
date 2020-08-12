@@ -257,11 +257,6 @@
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
-			<Name>Sinnesschärfe</Name>
-			<Fertigkeitswert>0</Fertigkeitswert>
-			<Merkmal>Körper</Merkmal>
-		</Talent>
-		<Talent>
 			<Name>Tanzen</Name>
 			<Fertigkeitswert>0</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
@@ -333,11 +328,6 @@
 		</Talent>
 		<Talent>
 			<Name>Rechtskunde</Name>
-			<Fertigkeitswert>0</Fertigkeitswert>
-			<Merkmal>Wissen</Merkmal>
-		</Talent>
-		<Talent>
-			<Name>Sphärenkunde</Name>
 			<Fertigkeitswert>0</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
