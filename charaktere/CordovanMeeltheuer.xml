@@ -82,7 +82,7 @@
 			<Kosten>5</Kosten>
 		</Nachteil>
 	</Nachteile>
-	<AP>1146</AP>
+	<AP>1196</AP>
 	<Talente>
 		<Talent>
 			<Name>Fliegen</Name>
@@ -171,7 +171,7 @@
 		</Talent>
 		<Talent>
 			<Name>Etikette</Name>
-			<Fertigkeitswert>1</Fertigkeitswert>
+			<Fertigkeitswert>2</Fertigkeitswert>
 			<Merkmal>Gesellschaft</Merkmal>
 		</Talent>
 		<Talent>
@@ -196,7 +196,7 @@
 		</Talent>
 		<Talent>
 			<Name>Willenskraft</Name>
-			<Fertigkeitswert>2</Fertigkeitswert>
+			<Fertigkeitswert>4</Fertigkeitswert>
 			<Merkmal>Gesellschaft</Merkmal>
 		</Talent>
 		<Talent>
@@ -301,7 +301,7 @@
 		</Talent>
 		<Talent>
 			<Name>Fahrzeuge</Name>
-			<Fertigkeitswert>5</Fertigkeitswert>
+			<Fertigkeitswert>6</Fertigkeitswert>
 			<Merkmal>Handwerk</Merkmal>
 		</Talent>
 		<Talent>
@@ -388,7 +388,7 @@
 		</Kampftechnik>
 		<Kampftechnik>
 			<Name>Dolche</Name>
-			<Kampftechnikwert>8</Kampftechnikwert>
+			<Kampftechnikwert>9</Kampftechnikwert>
 			<Leiteigenschaft>GE</Leiteigenschaft>
 			<Steigerungskosten>B</Steigerungskosten>
 		</Kampftechnik>
@@ -400,7 +400,7 @@
 		</Kampftechnik>
 		<Kampftechnik>
 			<Name>Raufen</Name>
-			<Kampftechnikwert>9</Kampftechnikwert>
+			<Kampftechnikwert>10</Kampftechnikwert>
 			<Leiteigenschaft>GE</Leiteigenschaft>
 			<Steigerungskosten>B</Steigerungskosten>
 		</Kampftechnik>
@@ -412,7 +412,7 @@
 		</Kampftechnik>
 		<Kampftechnik>
 			<Name>Stangenwaffen</Name>
-			<Kampftechnikwert>9</Kampftechnikwert>
+			<Kampftechnikwert>10</Kampftechnikwert>
 			<Leiteigenschaft>GE</Leiteigenschaft>
 			<Steigerungskosten>C</Steigerungskosten>
 		</Kampftechnik>
@@ -499,6 +499,26 @@
 			<Kosten>20</Kosten>
 			<Kategorie>Kampf</Kategorie>
 		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Abrollen</Name>
+			<Kosten>8</Kosten>
+			<Kategorie>Allgemein</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Gespür für Himmelsrichtungen</Name>
+			<Kosten>3</Kosten>
+			<Kategorie>Allgemein</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Gezielter Schuss</Name>
+			<Kosten>10</Kosten>
+			<Kategorie>Kampf</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Kampfreflexe 1</Name>
+			<Kosten>10</Kosten>
+			<Kategorie>Kampf</Kategorie>
+		</Sonderfertigkeit>
 		<Talentspezialisierung>
 			<Name>Tierische Spuren</Name>
 			<Fertigkeit>Fährtensuchen</Fertigkeit>
@@ -514,6 +534,14 @@
 		<Talentspezialisierung>
 			<Name>Lager aufbauen</Name>
 			<Fertigkeit>Wildnisleben</Fertigkeit>
+		</Talentspezialisierung>
+		<Talentspezialisierung>
+			<Name>Sonnenstand</Name>
+			<Fertigkeit>Orientierung</Fertigkeit>
+		</Talentspezialisierung>
+		<Talentspezialisierung>
+			<Name>Langstrecke</Name>
+			<Fertigkeit>Fahrzeuge</Fertigkeit>
 		</Talentspezialisierung>
 	</Sonderfertigkeiten>
 	<Steigerungshistorie>
@@ -948,6 +976,76 @@
 					<Leiteigenschaft>FF</Leiteigenschaft>
 					<Steigerungskosten>B</Steigerungskosten>
 				</NeueKampftechnik>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2020-08-14</Datum>
+			<Grund>Lebenserfahrung</Grund>
+			<AP>50</AP>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Abrollen</Name>
+				<Kosten>8</Kosten>
+				<Kategorie>Allgemein</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Gespür für Himmelsrichtungen</Name>
+				<Kosten>3</Kosten>
+				<Kategorie>Allgemein</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Gezielter Schuss</Name>
+				<Kosten>10</Kosten>
+				<Kategorie>Kampf</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Kampfreflexe 1</Name>
+				<Kosten>10</Kosten>
+				<Kategorie>Kampf</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Talentspezialisierungshinzugewinn>
+				<Name>Sonnenstand</Name>
+				<Fertigkeit>Orientierung</Fertigkeit>
+			</Talentspezialisierungshinzugewinn>
+			<Talentspezialisierungshinzugewinn>
+				<Name>Langstrecke</Name>
+				<Fertigkeit>Fahrzeuge</Fertigkeit>
+			</Talentspezialisierungshinzugewinn>
+			<Fertigkeitsänderung>
+				<Name>Willenskraft</Name>
+				<Änderung>2</Änderung>
+				<neuerWert>4</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Etikette</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>2</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Fahrzeuge</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>6</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Dolche</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>9</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Raufen</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>10</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Stangenwaffen</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>10</neuerWert>
 			</Fertigkeitsänderung>
 			<LePGekauft>0</LePGekauft>
 			<AsPGekauft>0</AsPGekauft>
