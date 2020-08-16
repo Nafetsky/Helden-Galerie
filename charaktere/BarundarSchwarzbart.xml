@@ -362,11 +362,6 @@
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
-			<Name>Sphärenkunde</Name>
-			<Fertigkeitswert>0</Fertigkeitswert>
-			<Merkmal>Wissen</Merkmal>
-		</Talent>
-		<Talent>
 			<Name>Sternenkunde</Name>
 			<Fertigkeitswert>0</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
@@ -413,11 +408,6 @@
 		</Talent>
 		<Talent>
 			<Name>Schlösserknacken</Name>
-			<Fertigkeitswert>0</Fertigkeitswert>
-			<Merkmal>Handwerk</Merkmal>
-		</Talent>
-		<Talent>
-			<Name>Steinbearbeitung</Name>
 			<Fertigkeitswert>0</Fertigkeitswert>
 			<Merkmal>Handwerk</Merkmal>
 		</Talent>
