@@ -33,6 +33,10 @@
 			<Name>Bosperano</Name>
 			<Stufe>2</Stufe>
 		</Sprachen>
+		<Sprachen>
+			<Name>Ferkina</Name>
+			<Stufe>1</Stufe>
+		</Sprachen>
 		<Schriften>
 			<Name>Rogolan-Runen</Name>
 			<Komplexität>A</Komplexität>
@@ -244,7 +248,7 @@
 		</Talent>
 		<Talent>
 			<Name>Malen&amp; Zeichnen</Name>
-			<Fertigkeitswert>2</Fertigkeitswert>
+			<Fertigkeitswert>9</Fertigkeitswert>
 			<Merkmal>Handwerk</Merkmal>
 		</Talent>
 		<Talent>
@@ -1208,6 +1212,22 @@
 					<Leiteigenschaft>FF</Leiteigenschaft>
 					<Steigerungskosten>B</Steigerungskosten>
 				</NeueKampftechnik>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2020-08-16</Datum>
+			<Grund>Korrektur, ferkina, Zeichnen</Grund>
+			<Fertigkeitsänderung>
+				<Name>Malen&amp; Zeichnen</Name>
+				<Änderung>7</Änderung>
+				<neuerWert>9</neuerWert>
 			</Fertigkeitsänderung>
 			<LePGekauft>0</LePGekauft>
 			<AsPGekauft>0</AsPGekauft>
