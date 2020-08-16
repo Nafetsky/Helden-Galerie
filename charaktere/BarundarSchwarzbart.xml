@@ -1,323 +1,1221 @@
-{
-	"clientVersion": "1.2.0",
-	"dateCreated": "2018-04-23T18:28:15.925Z",
-	"dateModified": "2019-12-21T17:37:38.478Z",
-	"id": "H_1572890922702",
-	"phase": 3,
-	"locale": "de-DE",
-	"name": "Barundar Schwarzbart Bengramssohn",
-	"ap": {
-		"total": 2311
-	},
-	"el": "EL_7",
-	"r": "R_4",
-	"c": "C_22",
-	"p": "P_0",
-	"professionName": "Leichtes Fußvolk",
-	"sex": "m",
-	"pers": {
-		"family": "Bengrams",
-		"placeofbirth": "Murolosch",
-		"socialstatus": 2
-	},
-	"attr": {
-		"values": [{
-				"id": "ATTR_1",
-				"value": 16
-			}, {
-				"id": "ATTR_2",
-				"value": 14
-			}, {
-				"id": "ATTR_3",
-				"value": 14
-			}, {
-				"id": "ATTR_4",
-				"value": 10
-			}, {
-				"id": "ATTR_5",
-				"value": 9
-			}, {
-				"id": "ATTR_6",
-				"value": 14
-			}, {
-				"id": "ATTR_7",
-				"value": 16
-			}, {
-				"id": "ATTR_8",
-				"value": 16
-			}
-		],
-		"attributeAdjustmentSelected": "ATTR_6",
-		"ae": 0,
-		"kp": 0,
-		"lp": 0,
-		"permanentAE": {
-			"lost": 0,
-			"redeemed": 0
-		},
-		"permanentKP": {
-			"lost": 0,
-			"redeemed": 0
-		},
-		"permanentLP": {
-			"lost": 0
-		}
-	},
-	"activatable": {
-		"ADV_1": [{
-				"cost": 0,
-				"tier": 1
-			}
-		],
-		"ADV_6": [{
-				"tier": 1
-			}
-		],
-		"ADV_13": [{
-				"cost": 5,
-				"tier": 1
-			}
-		],
-		"ADV_28": [{
-				"sid": 3
-			}
-		],
-		"ADV_31": [{
-				"tier": 1
-			}
-		],
-		"ADV_39": [{}
-		],
-		"ADV_49": [{}
-		],
-		"ADV_51": [{
-				"cost": 0
-			}
-		],
-		"ADV_75": [{}
-		],
-		"ADV_16": [],
-		"ADV_4": [],
-		"DISADV_1": [{
-				"sid": 5,
-				"tier": 2
-			}
-		],
-		"DISADV_33": [{
-				"sid2": "Magiebegabte",
-				"sid": 7
-			}
-		],
-		"DISADV_34": [{
-				"sid": 9,
-				"tier": 2
-			}
-		],
-		"DISADV_37": [{
-				"sid": 1
-			}, {
-				"sid": 4
-			}
-		],
-		"DISADV_48": [{
-				"sid": "TAL_7"
-			}
-		],
-		"DISADV_50": [{
-				"cost": 0,
-				"sid": "Mittelreich",
-				"tier": 1
-			}
-		],
-		"DISADV_55": [],
-		"DISADV_21": [],
-		"DISADV_25": [],
-		"DISADV_71": [],
-		"DISADV_51": [],
-		"DISADV_12": [],
-		"DISADV_4": [],
-		"DISADV_5": [],
-		"SA_3": [{
-				"sid": 74
-			}, {
-				"sid": 78
-			}
-		],
-		"SA_5": [{
-				"tier": 1
-			}
-		],
-		"SA_9": [{
-				"sid2": "Puniner Ritus",
-				"sid": "TAL_34"
-			}, {
-				"sid2": 1,
-				"sid": "TAL_58"
-			}, {
-				"sid2": -4,
-				"sid": "TAL_55"
-			}
-		],
-		"SA_12": [{
-				"sid": 4
-			}, {
-				"sid": 3
-			}
-		],
-		"SA_16": [{}
-		],
-		"SA_25": [{}
-		],
-		"SA_27": [{
-				"sid": 11
-			}, {
-				"sid": 9
-			}
-		],
-		"SA_29": [{
-				"sid": 17,
-				"tier": 4
-			}, {
-				"sid": 8,
-				"tier": 3
-			}, {
-				"sid": 6,
-				"tier": 2
-			}
-		],
-		"SA_40": [{}
-		],
-		"SA_41": [{
-				"tier": 2
-			}
-		],
-		"SA_48": [{
-				"tier": 1
-			}
-		],
-		"SA_49": [{}
-		],
-		"SA_51": [{
-				"tier": 1
-			}
-		],
-		"SA_62": [{}
-		],
-		"SA_64": [{
-				"tier": 1
-			}
-		],
-		"SA_65": [{}
-		],
-		"SA_66": [{}
-		],
-		"SA_67": [{
-				"tier": 2
-			}
-		],
-		"SA_100": [{}
-		],
-		"SA_128": [{}
-		],
-		"SA_144": [{}
-		],
-		"SA_147": [{}
-		],
-		"SA_168": [{}
-		],
-		"SA_190": [{}
-		],
-		"SA_205": [{}
-		],
-		"SA_421": [{
-				"tier": 2
-			}
-		],
-		"SA_423": [{}
-		],
-		"SA_427": [{}
-		],
-		"SA_428": [{}
-		]
-	},
-	"talents": {
-		"TAL_1": 1,
-		"TAL_3": 8,
-		"TAL_4": 11,
-		"TAL_5": 6,
-		"TAL_6": 10,
-		"TAL_8": 8,
-		"TAL_9": 3,
-		"TAL_10": 8,
-		"TAL_13": 5,
-		"TAL_14": 10,
-		"TAL_15": 10,
-		"TAL_17": 5,
-		"TAL_18": 6,
-		"TAL_19": 1,
-		"TAL_20": 12,
-		"TAL_21": 7,
-		"TAL_22": 3,
-		"TAL_23": 5,
-		"TAL_24": 6,
-		"TAL_25": 8,
-		"TAL_26": 1,
-		"TAL_27": 8,
-		"TAL_28": 4,
-		"TAL_29": 4,
-		"TAL_30": 11,
-		"TAL_32": 10,
-		"TAL_33": 9,
-		"TAL_34": 13,
-		"TAL_35": 10,
-		"TAL_36": 8,
-		"TAL_37": 4,
-		"TAL_38": 7,
-		"TAL_39": 9,
-		"TAL_40": 9,
-		"TAL_41": 2,
-		"TAL_44": 3,
-		"TAL_45": 2,
-		"TAL_46": 5,
-		"TAL_49": 2,
-		"TAL_50": 2,
-		"TAL_51": 10,
-		"TAL_52": 1,
-		"TAL_53": 2,
-		"TAL_54": 9,
-		"TAL_55": 11,
-		"TAL_58": 8,
-		"TAL_16": 3
-	},
-	"ct": {
-		"CT_1": 8,
-		"CT_3": 8,
-		"CT_5": 15,
-		"CT_9": 12,
-		"CT_10": 16,
-		"CT_13": 11,
-		"CT_14": 14
-	},
-	"spells": {},
-	"cantrips": [],
-	"liturgies": {},
-	"blessings": [],
-	"belongings": {
-		"items": {},
-		"armorZones": {},
-		"purse": {
-			"d": "0",
-			"s": "0",
-			"h": "0",
-			"k": "0"
-		}
-	},
-	"rules": {
-		"higherParadeValues": 0,
-		"attributeValueLimit": false,
-		"enableAllRuleBooks": true,
-		"enabledRuleBooks": [],
-		"enableLanguageSpecializations": false
-	},
-	"pets": {}
-}
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:Charakter xmlns:ns2="http://www.example.org/Charakter/">
+	<Name>Barundar Schwarzbart</Name>
+	<Spezies>
+		<Name>Zwerg</Name>
+		<BasisLeben>8</BasisLeben>
+		<BasisSeelenkraft>-4</BasisSeelenkraft>
+		<BasisZähigkeit>-4</BasisZähigkeit>
+		<BasisGeschwindigkeit>6</BasisGeschwindigkeit>
+		<Kosten>61</Kosten>
+	</Spezies>
+	<Kultur/>
+	<Eigenschaftswerte>
+		<Mut Attributswert="16" Kürzel="MU"/>
+		<Klugheit Attributswert="14" Kürzel="KL"/>
+		<Intuition Attributswert="14" Kürzel="IN"/>
+		<Charisma Attributswert="10" Kürzel="CH"/>
+		<Fingerfertigkeit Attributswert="9" Kürzel="FF"/>
+		<Gewandheit Attributswert="14" Kürzel="GE"/>
+		<Konstitution Attributswert="16" Kürzel="KO"/>
+		<Körperkraft Attributswert="16" Kürzel="KK"/>
+	</Eigenschaftswerte>
+	<Kommunikatives>
+		<Sprachen>
+			<Name>Rogolan</Name>
+			<Stufe>4</Stufe>
+		</Sprachen>
+		<Sprachen>
+			<Name>Garethi</Name>
+			<Stufe>3</Stufe>
+		</Sprachen>
+		<Sprachen>
+			<Name>Bosperano</Name>
+			<Stufe>2</Stufe>
+		</Sprachen>
+		<Schriften>
+			<Name>Rogolan-Runen</Name>
+			<Komplexität>A</Komplexität>
+		</Schriften>
+		<Schriften>
+			<Name>Kusliker Zeichen</Name>
+			<Komplexität>A</Komplexität>
+		</Schriften>
+	</Kommunikatives>
+	<Vorteile>
+		<Vorteil>
+			<Name>Adel I</Name>
+			<Kosten>0</Kosten>
+		</Vorteil>
+		<Vorteil>
+			<Name>Dunkelsicht I</Name>
+			<Kosten>10</Kosten>
+		</Vorteil>
+		<Vorteil>
+			<Name>Giftresistenz I</Name>
+			<Kosten>5</Kosten>
+		</Vorteil>
+		<Vorteil>
+			<Name>Immunität gegen Tulmadron</Name>
+			<Kosten>2</Kosten>
+		</Vorteil>
+		<Vorteil>
+			<Name>Krankheitsresistenz I</Name>
+			<Kosten>10</Kosten>
+		</Vorteil>
+		<Vorteil>
+			<Name>Schnell wieder auf den Beinen</Name>
+			<Kosten>2</Kosten>
+		</Vorteil>
+		<Vorteil>
+			<Name>Schwer  zu verzaubern</Name>
+			<Kosten>15</Kosten>
+		</Vorteil>
+		<Vorteil>
+			<Name>Zäher Hund</Name>
+			<Kosten>20</Kosten>
+		</Vorteil>
+		<Vorteil>
+			<Name>Zeitgefühl</Name>
+			<Kosten>0</Kosten>
+		</Vorteil>
+	</Vorteile>
+	<Nachteile>
+		<Nachteil>
+			<Name>Angst (Meer)</Name>
+			<Kosten>16</Kosten>
+		</Nachteil>
+		<Nachteil>
+			<Name>Persönlichkeitsschwäche (Vorurteile: Magier)</Name>
+			<Kosten>5</Kosten>
+		</Nachteil>
+		<Nachteil>
+			<Name>Prinzipientreue II (Moralkodex der Praioskirche, Ehre der Angroschim)</Name>
+			<Kosten>20</Kosten>
+		</Nachteil>
+		<Nachteil>
+			<Name>Schlechte Eigenschaft (Aberglaube)</Name>
+			<Kosten>5</Kosten>
+		</Nachteil>
+		<Nachteil>
+			<Name>Schlechte EIgenschaft (Goldgier)</Name>
+			<Kosten>5</Kosten>
+		</Nachteil>
+		<Nachteil>
+			<Name>Unfähigkeit (Schwimmen)</Name>
+			<Kosten>2</Kosten>
+		</Nachteil>
+		<Nachteil>
+			<Name>Verpflichtungen I (Mittelreich)</Name>
+			<Kosten>0</Kosten>
+		</Nachteil>
+	</Nachteile>
+	<AP>2311</AP>
+	<Talente>
+		<Talent>
+			<Name>Klettern</Name>
+			<Fertigkeitswert>8</Fertigkeitswert>
+			<Merkmal>Körper</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Körperbeherrschung</Name>
+			<Fertigkeitswert>11</Fertigkeitswert>
+			<Merkmal>Körper</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Kraftakt</Name>
+			<Fertigkeitswert>6</Fertigkeitswert>
+			<Merkmal>Körper</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Reiten</Name>
+			<Fertigkeitswert>10</Fertigkeitswert>
+			<Merkmal>Körper</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Schwimmen</Name>
+			<Fertigkeitswert>0</Fertigkeitswert>
+			<Merkmal>Körper</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Selbstbeherrschung</Name>
+			<Fertigkeitswert>8</Fertigkeitswert>
+			<Merkmal>Körper</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Etikette</Name>
+			<Fertigkeitswert>6</Fertigkeitswert>
+			<Merkmal>Gesellschaft</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Menschenkenntnis</Name>
+			<Fertigkeitswert>12</Fertigkeitswert>
+			<Merkmal>Gesellschaft</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Überreden</Name>
+			<Fertigkeitswert>7</Fertigkeitswert>
+			<Merkmal>Gesellschaft</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Willenskraft</Name>
+			<Fertigkeitswert>5</Fertigkeitswert>
+			<Merkmal>Gesellschaft</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Orientierung</Name>
+			<Fertigkeitswert>8</Fertigkeitswert>
+			<Merkmal>Natur</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Pflanzenkunde</Name>
+			<Fertigkeitswert>4</Fertigkeitswert>
+			<Merkmal>Natur</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Tierkunde</Name>
+			<Fertigkeitswert>4</Fertigkeitswert>
+			<Merkmal>Natur</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Wildnisleben</Name>
+			<Fertigkeitswert>11</Fertigkeitswert>
+			<Merkmal>Natur</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Geographie</Name>
+			<Fertigkeitswert>10</Fertigkeitswert>
+			<Merkmal>Wissen</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Geschichtswissen</Name>
+			<Fertigkeitswert>9</Fertigkeitswert>
+			<Merkmal>Wissen</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Götter&amp; Kulte</Name>
+			<Fertigkeitswert>13</Fertigkeitswert>
+			<Merkmal>Wissen</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Kriegskunst</Name>
+			<Fertigkeitswert>10</Fertigkeitswert>
+			<Merkmal>Wissen</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Magiekunde</Name>
+			<Fertigkeitswert>8</Fertigkeitswert>
+			<Merkmal>Wissen</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Rechnen</Name>
+			<Fertigkeitswert>7</Fertigkeitswert>
+			<Merkmal>Wissen</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Rechtskunde</Name>
+			<Fertigkeitswert>9</Fertigkeitswert>
+			<Merkmal>Wissen</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Sagen&amp; Legenden</Name>
+			<Fertigkeitswert>9</Fertigkeitswert>
+			<Merkmal>Wissen</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Sphärenkunde</Name>
+			<Fertigkeitswert>2</Fertigkeitswert>
+			<Merkmal>Wissen</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Alchemie</Name>
+			<Fertigkeitswert>0</Fertigkeitswert>
+			<Merkmal>Handwerk</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Heilkunde Wunde</Name>
+			<Fertigkeitswert>2</Fertigkeitswert>
+			<Merkmal>Handwerk</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Holzbearbeitung</Name>
+			<Fertigkeitswert>10</Fertigkeitswert>
+			<Merkmal>Handwerk</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Malen&amp; Zeichnen</Name>
+			<Fertigkeitswert>2</Fertigkeitswert>
+			<Merkmal>Handwerk</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Metallbearbeitung</Name>
+			<Fertigkeitswert>11</Fertigkeitswert>
+			<Merkmal>Handwerk</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Steinbearbeitung</Name>
+			<Fertigkeitswert>8</Fertigkeitswert>
+			<Merkmal>Handwerk</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Stoffbearbeitung</Name>
+			<Fertigkeitswert>0</Fertigkeitswert>
+			<Merkmal>Handwerk</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Fliegen</Name>
+			<Fertigkeitswert>1</Fertigkeitswert>
+			<Merkmal>Körper</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Gaukeleien</Name>
+			<Fertigkeitswert>0</Fertigkeitswert>
+			<Merkmal>Körper</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Singen</Name>
+			<Fertigkeitswert>3</Fertigkeitswert>
+			<Merkmal>Körper</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Sinnesschärfe</Name>
+			<Fertigkeitswert>8</Fertigkeitswert>
+			<Merkmal>Körper</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Tanzen</Name>
+			<Fertigkeitswert>0</Fertigkeitswert>
+			<Merkmal>Körper</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Taschendiebstahl</Name>
+			<Fertigkeitswert>0</Fertigkeitswert>
+			<Merkmal>Körper</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Verbergen</Name>
+			<Fertigkeitswert>5</Fertigkeitswert>
+			<Merkmal>Körper</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Zechen</Name>
+			<Fertigkeitswert>10</Fertigkeitswert>
+			<Merkmal>Körper</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Bekehren&amp; Überzeugen</Name>
+			<Fertigkeitswert>10</Fertigkeitswert>
+			<Merkmal>Gesellschaft</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Betören</Name>
+			<Fertigkeitswert>3</Fertigkeitswert>
+			<Merkmal>Gesellschaft</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Einschüchtern</Name>
+			<Fertigkeitswert>5</Fertigkeitswert>
+			<Merkmal>Gesellschaft</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Gassenwissen</Name>
+			<Fertigkeitswert>1</Fertigkeitswert>
+			<Merkmal>Gesellschaft</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Verkleiden</Name>
+			<Fertigkeitswert>3</Fertigkeitswert>
+			<Merkmal>Gesellschaft</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Fährtensuchen</Name>
+			<Fertigkeitswert>6</Fertigkeitswert>
+			<Merkmal>Natur</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Fesseln</Name>
+			<Fertigkeitswert>8</Fertigkeitswert>
+			<Merkmal>Natur</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Fischen&amp; Angeln</Name>
+			<Fertigkeitswert>1</Fertigkeitswert>
+			<Merkmal>Natur</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Brett-&amp; Glückspiele</Name>
+			<Fertigkeitswert>0</Fertigkeitswert>
+			<Merkmal>Wissen</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Mechanik</Name>
+			<Fertigkeitswert>4</Fertigkeitswert>
+			<Merkmal>Wissen</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Rechtskunde</Name>
+			<Fertigkeitswert>0</Fertigkeitswert>
+			<Merkmal>Wissen</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Sphärenkunde</Name>
+			<Fertigkeitswert>0</Fertigkeitswert>
+			<Merkmal>Wissen</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Sternenkunde</Name>
+			<Fertigkeitswert>0</Fertigkeitswert>
+			<Merkmal>Wissen</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Boote&amp; Schiffe</Name>
+			<Fertigkeitswert>3</Fertigkeitswert>
+			<Merkmal>Handwerk</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Fahrzeuge</Name>
+			<Fertigkeitswert>2</Fertigkeitswert>
+			<Merkmal>Handwerk</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Handel</Name>
+			<Fertigkeitswert>5</Fertigkeitswert>
+			<Merkmal>Handwerk</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Heilkunde Gift</Name>
+			<Fertigkeitswert>0</Fertigkeitswert>
+			<Merkmal>Handwerk</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Heilkunde Krankheit</Name>
+			<Fertigkeitswert>0</Fertigkeitswert>
+			<Merkmal>Handwerk</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Heilkunde Seele</Name>
+			<Fertigkeitswert>2</Fertigkeitswert>
+			<Merkmal>Handwerk</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Lebensmittelbearbeitung</Name>
+			<Fertigkeitswert>1</Fertigkeitswert>
+			<Merkmal>Handwerk</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Musizieren</Name>
+			<Fertigkeitswert>0</Fertigkeitswert>
+			<Merkmal>Handwerk</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Schlösserknacken</Name>
+			<Fertigkeitswert>0</Fertigkeitswert>
+			<Merkmal>Handwerk</Merkmal>
+		</Talent>
+		<Talent>
+			<Name>Steinbearbeitung</Name>
+			<Fertigkeitswert>0</Fertigkeitswert>
+			<Merkmal>Handwerk</Merkmal>
+		</Talent>
+	</Talente>
+	<Zauber/>
+	<Rituale/>
+	<Liturgien/>
+	<Zeremonien/>
+	<Kampftechniken>
+		<Kampftechnik>
+			<Name>Armbrüste</Name>
+			<Kampftechnikwert>8</Kampftechnikwert>
+			<Leiteigenschaft>FF</Leiteigenschaft>
+			<Steigerungskosten>B</Steigerungskosten>
+		</Kampftechnik>
+		<Kampftechnik>
+			<Name>Dolche</Name>
+			<Kampftechnikwert>8</Kampftechnikwert>
+			<Leiteigenschaft>GE</Leiteigenschaft>
+			<Steigerungskosten>B</Steigerungskosten>
+		</Kampftechnik>
+		<Kampftechnik>
+			<Name>Hiebwaffen</Name>
+			<Kampftechnikwert>15</Kampftechnikwert>
+			<Leiteigenschaft>KK</Leiteigenschaft>
+			<Steigerungskosten>C</Steigerungskosten>
+		</Kampftechnik>
+		<Kampftechnik>
+			<Name>Raufen</Name>
+			<Kampftechnikwert>12</Kampftechnikwert>
+			<Leiteigenschaft>KK</Leiteigenschaft>
+			<Steigerungskosten>B</Steigerungskosten>
+		</Kampftechnik>
+		<Kampftechnik>
+			<Name>Schilde</Name>
+			<Kampftechnikwert>16</Kampftechnikwert>
+			<Leiteigenschaft>KK</Leiteigenschaft>
+			<Steigerungskosten>C</Steigerungskosten>
+		</Kampftechnik>
+		<Kampftechnik>
+			<Name>Stangenwaffen</Name>
+			<Kampftechnikwert>11</Kampftechnikwert>
+			<Leiteigenschaft>KK</Leiteigenschaft>
+			<Steigerungskosten>C</Steigerungskosten>
+		</Kampftechnik>
+		<Kampftechnik>
+			<Name>Wurfwaffen</Name>
+			<Kampftechnikwert>14</Kampftechnikwert>
+			<Leiteigenschaft>FF</Leiteigenschaft>
+			<Steigerungskosten>B</Steigerungskosten>
+		</Kampftechnik>
+	</Kampftechniken>
+	<Sonderfertigkeiten>
+		<Sonderfertigkeit>
+			<Name>Athlet</Name>
+			<Kosten>20</Kosten>
+			<Kategorie>Allgemein</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Berufsgeheimnis (Felsspalter)</Name>
+			<Kosten>3</Kosten>
+			<Kategorie>Allgemein</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Berufsgeheimnis (Lindwurmschläger)</Name>
+			<Kosten>3</Kosten>
+			<Kategorie>Allgemein</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Berufsgeheimnis (Wurmspieß)</Name>
+			<Kosten>3</Kosten>
+			<Kategorie>Allgemein</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Eiserner Will I</Name>
+			<Kosten>15</Kosten>
+			<Kategorie>Allgemein</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Geländekunde (Höhlenkundig)</Name>
+			<Kosten>15</Kosten>
+			<Kategorie>Allgemein</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Geländekunde (Gebirgskundig)</Name>
+			<Kosten>15</Kosten>
+			<Kategorie>Allgemein</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Heraldik</Name>
+			<Kosten>2</Kosten>
+			<Kategorie>Allgemein</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Kampftrinker I</Name>
+			<Kosten>2</Kosten>
+			<Kategorie>Allgemein</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Kampftrinker II</Name>
+			<Kosten>2</Kosten>
+			<Kategorie>Allgemein</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Orientierung unter Tage</Name>
+			<Kosten>3</Kosten>
+			<Kategorie>Allgemein</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Schmerz unterdrücken</Name>
+			<Kosten>20</Kosten>
+			<Kategorie>Allgemein</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Waffenbau</Name>
+			<Kosten>12</Kosten>
+			<Kategorie>Allgemein</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Aufmerksamkeit</Name>
+			<Kosten>10</Kosten>
+			<Kategorie>Kampf</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Balstungsgewöhnung I</Name>
+			<Kosten>20</Kosten>
+			<Kategorie>Kampf</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Balstungsgewöhnung II</Name>
+			<Kosten>35</Kosten>
+			<Kategorie>Kampf</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Finte I</Name>
+			<Kosten>15</Kosten>
+			<Kategorie>Kampf</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Haltegriff</Name>
+			<Kosten>5</Kosten>
+			<Kategorie>Kampf</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Kampfreflexe I</Name>
+			<Kosten>10</Kosten>
+			<Kategorie>Kampf</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Meisterparade</Name>
+			<Kosten>25</Kosten>
+			<Kategorie>Kampf</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Sturmangriff</Name>
+			<Kosten>25</Kosten>
+			<Kategorie>Kampf</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Verbessertes Ausweichen I</Name>
+			<Kosten>15</Kosten>
+			<Kategorie>Kampf</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Verteidigungshaltung</Name>
+			<Kosten>10</Kosten>
+			<Kategorie>Kampf</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Vorstoß</Name>
+			<Kosten>10</Kosten>
+			<Kategorie>Kampf</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Wuchtschlag I</Name>
+			<Kosten>15</Kosten>
+			<Kategorie>Kampf</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Wuchtschlag II</Name>
+			<Kosten>20</Kosten>
+			<Kategorie>Kampf</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Kopfstoß</Name>
+			<Kosten>5</Kosten>
+			<Kategorie>Kampf</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Mercenario-Stil</Name>
+			<Kosten>8</Kosten>
+			<Kategorie>Kampf</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Durch die Wand</Name>
+			<Kosten>1</Kosten>
+			<Kategorie>Kampf</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Kneipen-Kopfstoß</Name>
+			<Kosten>1</Kosten>
+			<Kategorie>Kampf</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Köpfe Aneinanderschlagen</Name>
+			<Kosten>3</Kosten>
+			<Kategorie>Kampf</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Fleischwunde</Name>
+			<Kosten>15</Kosten>
+			<Kategorie>Kampf</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Hibwaffenspezialisierung (Lindwurmschlägel)</Name>
+			<Kosten>3</Kosten>
+			<Kategorie>Kampf</Kategorie>
+		</Sonderfertigkeit>
+		<Talentspezialisierung>
+			<Name>Puniner Ritus</Name>
+			<Fertigkeit>Götter&amp; Kulte</Fertigkeit>
+		</Talentspezialisierung>
+		<Talentspezialisierung>
+			<Name>Waffenherstellung</Name>
+			<Fertigkeit>Metallbearbeitung</Fertigkeit>
+		</Talentspezialisierung>
+		<Talentspezialisierung>
+			<Name>Maurerarbeiten</Name>
+			<Fertigkeit>Steinbearbeitung</Fertigkeit>
+		</Talentspezialisierung>
+	</Sonderfertigkeiten>
+	<Steigerungshistorie>
+		<Ereignis>
+			<Datum>2020-08-12</Datum>
+			<Grund>Konvertierung</Grund>
+			<AP>2311</AP>
+			<Eigenschaftssteigerung>
+				<Eigenschaft>MU</Eigenschaft>
+				<Steigerung>8</Steigerung>
+				<neuerWert>16</neuerWert>
+			</Eigenschaftssteigerung>
+			<Eigenschaftssteigerung>
+				<Eigenschaft>KL</Eigenschaft>
+				<Steigerung>6</Steigerung>
+				<neuerWert>14</neuerWert>
+			</Eigenschaftssteigerung>
+			<Eigenschaftssteigerung>
+				<Eigenschaft>IN</Eigenschaft>
+				<Steigerung>6</Steigerung>
+				<neuerWert>14</neuerWert>
+			</Eigenschaftssteigerung>
+			<Eigenschaftssteigerung>
+				<Eigenschaft>CH</Eigenschaft>
+				<Steigerung>2</Steigerung>
+				<neuerWert>10</neuerWert>
+			</Eigenschaftssteigerung>
+			<Eigenschaftssteigerung>
+				<Eigenschaft>FF</Eigenschaft>
+				<Steigerung>1</Steigerung>
+				<neuerWert>9</neuerWert>
+			</Eigenschaftssteigerung>
+			<Eigenschaftssteigerung>
+				<Eigenschaft>GE</Eigenschaft>
+				<Steigerung>6</Steigerung>
+				<neuerWert>14</neuerWert>
+			</Eigenschaftssteigerung>
+			<Eigenschaftssteigerung>
+				<Eigenschaft>KO</Eigenschaft>
+				<Steigerung>8</Steigerung>
+				<neuerWert>16</neuerWert>
+			</Eigenschaftssteigerung>
+			<Eigenschaftssteigerung>
+				<Eigenschaft>KK</Eigenschaft>
+				<Steigerung>8</Steigerung>
+				<neuerWert>16</neuerWert>
+			</Eigenschaftssteigerung>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Athlet</Name>
+				<Kosten>20</Kosten>
+				<Kategorie>Allgemein</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Berufsgeheimnis (Felsspalter)</Name>
+				<Kosten>3</Kosten>
+				<Kategorie>Allgemein</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Berufsgeheimnis (Lindwurmschläger)</Name>
+				<Kosten>3</Kosten>
+				<Kategorie>Allgemein</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Berufsgeheimnis (Wurmspieß)</Name>
+				<Kosten>3</Kosten>
+				<Kategorie>Allgemein</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Eiserner Will I</Name>
+				<Kosten>15</Kosten>
+				<Kategorie>Allgemein</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Geländekunde (Höhlenkundig)</Name>
+				<Kosten>15</Kosten>
+				<Kategorie>Allgemein</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Geländekunde (Gebirgskundig)</Name>
+				<Kosten>15</Kosten>
+				<Kategorie>Allgemein</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Heraldik</Name>
+				<Kosten>2</Kosten>
+				<Kategorie>Allgemein</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Kampftrinker I</Name>
+				<Kosten>2</Kosten>
+				<Kategorie>Allgemein</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Kampftrinker II</Name>
+				<Kosten>2</Kosten>
+				<Kategorie>Allgemein</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Orientierung unter Tage</Name>
+				<Kosten>3</Kosten>
+				<Kategorie>Allgemein</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Schmerz unterdrücken</Name>
+				<Kosten>20</Kosten>
+				<Kategorie>Allgemein</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Waffenbau</Name>
+				<Kosten>12</Kosten>
+				<Kategorie>Allgemein</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Aufmerksamkeit</Name>
+				<Kosten>10</Kosten>
+				<Kategorie>Kampf</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Balstungsgewöhnung I</Name>
+				<Kosten>20</Kosten>
+				<Kategorie>Kampf</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Balstungsgewöhnung II</Name>
+				<Kosten>35</Kosten>
+				<Kategorie>Kampf</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Finte I</Name>
+				<Kosten>15</Kosten>
+				<Kategorie>Kampf</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Haltegriff</Name>
+				<Kosten>5</Kosten>
+				<Kategorie>Kampf</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Kampfreflexe I</Name>
+				<Kosten>10</Kosten>
+				<Kategorie>Kampf</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Meisterparade</Name>
+				<Kosten>25</Kosten>
+				<Kategorie>Kampf</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Sturmangriff</Name>
+				<Kosten>25</Kosten>
+				<Kategorie>Kampf</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Verbessertes Ausweichen I</Name>
+				<Kosten>15</Kosten>
+				<Kategorie>Kampf</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Verteidigungshaltung</Name>
+				<Kosten>10</Kosten>
+				<Kategorie>Kampf</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Vorstoß</Name>
+				<Kosten>10</Kosten>
+				<Kategorie>Kampf</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Wuchtschlag I</Name>
+				<Kosten>15</Kosten>
+				<Kategorie>Kampf</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Wuchtschlag II</Name>
+				<Kosten>20</Kosten>
+				<Kategorie>Kampf</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Kopfstoß</Name>
+				<Kosten>5</Kosten>
+				<Kategorie>Kampf</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Mercenario-Stil</Name>
+				<Kosten>8</Kosten>
+				<Kategorie>Kampf</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Durch die Wand</Name>
+				<Kosten>1</Kosten>
+				<Kategorie>Kampf</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Kneipen-Kopfstoß</Name>
+				<Kosten>1</Kosten>
+				<Kategorie>Kampf</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Köpfe Aneinanderschlagen</Name>
+				<Kosten>3</Kosten>
+				<Kategorie>Kampf</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Fleischwunde</Name>
+				<Kosten>15</Kosten>
+				<Kategorie>Kampf</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Hibwaffenspezialisierung (Lindwurmschlägel)</Name>
+				<Kosten>3</Kosten>
+				<Kategorie>Kampf</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Talentspezialisierungshinzugewinn>
+				<Name>Puniner Ritus</Name>
+				<Fertigkeit>Götter&amp; Kulte</Fertigkeit>
+			</Talentspezialisierungshinzugewinn>
+			<Talentspezialisierungshinzugewinn>
+				<Name>Waffenherstellung</Name>
+				<Fertigkeit>Metallbearbeitung</Fertigkeit>
+			</Talentspezialisierungshinzugewinn>
+			<Talentspezialisierungshinzugewinn>
+				<Name>Maurerarbeiten</Name>
+				<Fertigkeit>Steinbearbeitung</Fertigkeit>
+			</Talentspezialisierungshinzugewinn>
+			<Fertigkeitsänderung>
+				<Name>Fliegen</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>1</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Klettern</Name>
+				<Änderung>8</Änderung>
+				<neuerWert>8</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Kraftakt</Name>
+				<Änderung>6</Änderung>
+				<neuerWert>6</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Körperbeherrschung</Name>
+				<Änderung>11</Änderung>
+				<neuerWert>11</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Reiten</Name>
+				<Änderung>10</Änderung>
+				<neuerWert>10</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Selbstbeherrschung</Name>
+				<Änderung>8</Änderung>
+				<neuerWert>8</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Singen</Name>
+				<Änderung>3</Änderung>
+				<neuerWert>3</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Sinnesschärfe</Name>
+				<Änderung>8</Änderung>
+				<neuerWert>8</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Verbergen</Name>
+				<Änderung>5</Änderung>
+				<neuerWert>5</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Zechen</Name>
+				<Änderung>10</Änderung>
+				<neuerWert>10</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Bekehren&amp; Überzeugen</Name>
+				<Änderung>10</Änderung>
+				<neuerWert>10</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Betören</Name>
+				<Änderung>3</Änderung>
+				<neuerWert>3</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Einschüchtern</Name>
+				<Änderung>5</Änderung>
+				<neuerWert>5</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Etikette</Name>
+				<Änderung>6</Änderung>
+				<neuerWert>6</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Gassenwissen</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>1</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Menschenkenntnis</Name>
+				<Änderung>12</Änderung>
+				<neuerWert>12</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Verkleiden</Name>
+				<Änderung>3</Änderung>
+				<neuerWert>3</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Willenskraft</Name>
+				<Änderung>5</Änderung>
+				<neuerWert>5</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Überreden</Name>
+				<Änderung>7</Änderung>
+				<neuerWert>7</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Fährtensuchen</Name>
+				<Änderung>6</Änderung>
+				<neuerWert>6</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Fesseln</Name>
+				<Änderung>8</Änderung>
+				<neuerWert>8</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Fischen&amp; Angeln</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>1</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Orientierung</Name>
+				<Änderung>8</Änderung>
+				<neuerWert>8</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Pflanzenkunde</Name>
+				<Änderung>4</Änderung>
+				<neuerWert>4</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Tierkunde</Name>
+				<Änderung>4</Änderung>
+				<neuerWert>4</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Wildnisleben</Name>
+				<Änderung>11</Änderung>
+				<neuerWert>11</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Geographie</Name>
+				<Änderung>10</Änderung>
+				<neuerWert>10</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Geschichtswissen</Name>
+				<Änderung>9</Änderung>
+				<neuerWert>9</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Götter&amp; Kulte</Name>
+				<Änderung>13</Änderung>
+				<neuerWert>13</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Kriegskunst</Name>
+				<Änderung>10</Änderung>
+				<neuerWert>10</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Magiekunde</Name>
+				<Änderung>8</Änderung>
+				<neuerWert>8</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Mechanik</Name>
+				<Änderung>4</Änderung>
+				<neuerWert>4</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Rechnen</Name>
+				<Änderung>7</Änderung>
+				<neuerWert>7</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Rechtskunde</Name>
+				<Änderung>9</Änderung>
+				<neuerWert>9</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Sagen&amp; Legenden</Name>
+				<Änderung>9</Änderung>
+				<neuerWert>9</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Sphärenkunde</Name>
+				<Änderung>2</Änderung>
+				<neuerWert>2</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Boote&amp; Schiffe</Name>
+				<Änderung>3</Änderung>
+				<neuerWert>3</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Fahrzeuge</Name>
+				<Änderung>2</Änderung>
+				<neuerWert>2</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Handel</Name>
+				<Änderung>5</Änderung>
+				<neuerWert>5</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Heilkunde Seele</Name>
+				<Änderung>2</Änderung>
+				<neuerWert>2</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Heilkunde Wunde</Name>
+				<Änderung>2</Änderung>
+				<neuerWert>2</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Holzbearbeitung</Name>
+				<Änderung>10</Änderung>
+				<neuerWert>10</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Lebensmittelbearbeitung</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>1</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Malen&amp; Zeichnen</Name>
+				<Änderung>2</Änderung>
+				<neuerWert>2</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Metallbearbeitung</Name>
+				<Änderung>11</Änderung>
+				<neuerWert>11</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Steinbearbeitung</Name>
+				<Änderung>8</Änderung>
+				<neuerWert>8</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Armbrüste</Name>
+				<Änderung>2</Änderung>
+				<neuerWert>8</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Dolche</Name>
+				<Änderung>2</Änderung>
+				<neuerWert>8</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Hiebwaffen</Name>
+				<Änderung>9</Änderung>
+				<neuerWert>15</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Raufen</Name>
+				<Änderung>6</Änderung>
+				<neuerWert>12</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Schilde</Name>
+				<Änderung>10</Änderung>
+				<neuerWert>16</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Stangenwaffen</Name>
+				<Änderung>5</Änderung>
+				<neuerWert>11</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Wurfwaffen</Name>
+				<Änderung>8</Änderung>
+				<neuerWert>14</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Armbrüste</Name>
+				<Änderung>0</Änderung>
+				<neuerWert>0</neuerWert>
+				<NeueKampftechnik>
+					<Name>Armbrüste</Name>
+					<Kampftechnikwert>6</Kampftechnikwert>
+					<Leiteigenschaft>FF</Leiteigenschaft>
+					<Steigerungskosten>B</Steigerungskosten>
+				</NeueKampftechnik>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Dolche</Name>
+				<Änderung>0</Änderung>
+				<neuerWert>0</neuerWert>
+				<NeueKampftechnik>
+					<Name>Dolche</Name>
+					<Kampftechnikwert>6</Kampftechnikwert>
+					<Leiteigenschaft>GE</Leiteigenschaft>
+					<Steigerungskosten>B</Steigerungskosten>
+				</NeueKampftechnik>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Hiebwaffen</Name>
+				<Änderung>0</Änderung>
+				<neuerWert>0</neuerWert>
+				<NeueKampftechnik>
+					<Name>Hiebwaffen</Name>
+					<Kampftechnikwert>6</Kampftechnikwert>
+					<Leiteigenschaft>KK</Leiteigenschaft>
+					<Steigerungskosten>C</Steigerungskosten>
+				</NeueKampftechnik>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Raufen</Name>
+				<Änderung>0</Änderung>
+				<neuerWert>0</neuerWert>
+				<NeueKampftechnik>
+					<Name>Raufen</Name>
+					<Kampftechnikwert>6</Kampftechnikwert>
+					<Leiteigenschaft>KK</Leiteigenschaft>
+					<Steigerungskosten>B</Steigerungskosten>
+				</NeueKampftechnik>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Schilde</Name>
+				<Änderung>0</Änderung>
+				<neuerWert>0</neuerWert>
+				<NeueKampftechnik>
+					<Name>Schilde</Name>
+					<Kampftechnikwert>6</Kampftechnikwert>
+					<Leiteigenschaft>KK</Leiteigenschaft>
+					<Steigerungskosten>C</Steigerungskosten>
+				</NeueKampftechnik>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Stangenwaffen</Name>
+				<Änderung>0</Änderung>
+				<neuerWert>0</neuerWert>
+				<NeueKampftechnik>
+					<Name>Stangenwaffen</Name>
+					<Kampftechnikwert>6</Kampftechnikwert>
+					<Leiteigenschaft>KK</Leiteigenschaft>
+					<Steigerungskosten>C</Steigerungskosten>
+				</NeueKampftechnik>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Wurfwaffen</Name>
+				<Änderung>0</Änderung>
+				<neuerWert>0</neuerWert>
+				<NeueKampftechnik>
+					<Name>Wurfwaffen</Name>
+					<Kampftechnikwert>6</Kampftechnikwert>
+					<Leiteigenschaft>FF</Leiteigenschaft>
+					<Steigerungskosten>B</Steigerungskosten>
+				</NeueKampftechnik>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+	</Steigerungshistorie>
+</ns2:Charakter>
