@@ -114,7 +114,7 @@
 			<Kosten>0</Kosten>
 		</Nachteil>
 	</Nachteile>
-	<AP>2311</AP>
+	<AP>2314</AP>
 	<Talente>
 		<Talent>
 			<Name>Klettern</Name>
@@ -313,7 +313,7 @@
 		</Talent>
 		<Talent>
 			<Name>Betören</Name>
-			<Fertigkeitswert>3</Fertigkeitswert>
+			<Fertigkeitswert>4</Fertigkeitswert>
 			<Merkmal>Gesellschaft</Merkmal>
 		</Talent>
 		<Talent>
@@ -378,7 +378,7 @@
 		</Talent>
 		<Talent>
 			<Name>Handel</Name>
-			<Fertigkeitswert>5</Fertigkeitswert>
+			<Fertigkeitswert>6</Fertigkeitswert>
 			<Merkmal>Handwerk</Merkmal>
 		</Talent>
 		<Talent>
@@ -1218,6 +1218,27 @@
 				<Name>Malen&amp; Zeichnen</Name>
 				<Änderung>7</Änderung>
 				<neuerWert>9</neuerWert>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2020-08-16</Datum>
+			<Grund>Abschluss: Ordnung in der Lust</Grund>
+			<Fertigkeitsänderung>
+				<Name>Betören</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>4</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Handel</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>6</neuerWert>
 			</Fertigkeitsänderung>
 			<LePGekauft>0</LePGekauft>
 			<AsPGekauft>0</AsPGekauft>
