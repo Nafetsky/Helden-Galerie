@@ -82,7 +82,7 @@
 			<Kosten>10</Kosten>
 		</Nachteil>
 	</Nachteile>
-	<AP>1115</AP>
+	<AP>1139</AP>
 	<LostAsP>2</LostAsP>
 	<RestoredAsP>2</RestoredAsP>
 	<Talente>
@@ -93,12 +93,12 @@
 		</Talent>
 		<Talent>
 			<Name>Körperbeherrschung</Name>
-			<Fertigkeitswert>2</Fertigkeitswert>
+			<Fertigkeitswert>3</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
 			<Name>Kraftakt</Name>
-			<Fertigkeitswert>2</Fertigkeitswert>
+			<Fertigkeitswert>3</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
@@ -477,7 +477,7 @@
 	<Kampftechniken>
 		<Kampftechnik>
 			<Name>Stangenwaffen</Name>
-			<Kampftechnikwert>11</Kampftechnikwert>
+			<Kampftechnikwert>12</Kampftechnikwert>
 			<Leiteigenschaft>KK</Leiteigenschaft>
 			<Steigerungskosten>C</Steigerungskosten>
 		</Kampftechnik>
@@ -1008,6 +1008,32 @@
 				<Name>Gassenwissen</Name>
 				<Änderung>1</Änderung>
 				<neuerWert>4</neuerWert>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2020-10-10</Datum>
+			<Grund>Abschluss: QQ Wem die Stund schlägt</Grund>
+			<Fertigkeitsänderung>
+				<Name>Körperbeherrschung</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>3</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Kraftakt</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>3</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Stangenwaffen</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>12</neuerWert>
 			</Fertigkeitsänderung>
 			<LePGekauft>0</LePGekauft>
 			<AsPGekauft>0</AsPGekauft>
