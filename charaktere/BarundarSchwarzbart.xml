@@ -114,7 +114,7 @@
 			<Kosten>0</Kosten>
 		</Nachteil>
 	</Nachteile>
-	<AP>2314</AP>
+	<AP>2319</AP>
 	<Talente>
 		<Talent>
 			<Name>Klettern</Name>
@@ -128,7 +128,7 @@
 		</Talent>
 		<Talent>
 			<Name>Kraftakt</Name>
-			<Fertigkeitswert>6</Fertigkeitswert>
+			<Fertigkeitswert>7</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
@@ -431,7 +431,7 @@
 		</Kampftechnik>
 		<Kampftechnik>
 			<Name>Hiebwaffen</Name>
-			<Kampftechnikwert>15</Kampftechnikwert>
+			<Kampftechnikwert>16</Kampftechnikwert>
 			<Leiteigenschaft>KK</Leiteigenschaft>
 			<Steigerungskosten>C</Steigerungskosten>
 		</Kampftechnik>
@@ -1239,6 +1239,27 @@
 				<Name>Handel</Name>
 				<Änderung>1</Änderung>
 				<neuerWert>6</neuerWert>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2020-10-10</Datum>
+			<Grund>Abschluss: QQ Wem die Stund schlägt</Grund>
+			<Fertigkeitsänderung>
+				<Name>Hiebwaffen</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>16</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Kraftakt</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>7</neuerWert>
 			</Fertigkeitsänderung>
 			<LePGekauft>0</LePGekauft>
 			<AsPGekauft>0</AsPGekauft>
