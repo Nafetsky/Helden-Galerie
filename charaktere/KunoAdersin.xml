@@ -380,7 +380,7 @@
 			<Steigerungskosten>B</Steigerungskosten>
 		</Kampftechnik>
 		<Kampftechnik>
-			<Name>Hibewaffen</Name>
+			<Name>Hiebwaffen</Name>
 			<Kampftechnikwert>8</Kampftechnikwert>
 			<Leiteigenschaft>KK</Leiteigenschaft>
 			<Steigerungskosten>C</Steigerungskosten>
@@ -816,7 +816,7 @@
 				<neuerWert>8</neuerWert>
 			</Fertigkeitsänderung>
 			<Fertigkeitsänderung>
-				<Name>Hibewaffen</Name>
+				<Name>Hiebwaffen</Name>
 				<Änderung>2</Änderung>
 				<neuerWert>8</neuerWert>
 			</Fertigkeitsänderung>
@@ -874,11 +874,11 @@
 				</NeueKampftechnik>
 			</Fertigkeitsänderung>
 			<Fertigkeitsänderung>
-				<Name>Hibewaffen</Name>
+				<Name>Hiebwaffen</Name>
 				<Änderung>0</Änderung>
 				<neuerWert>0</neuerWert>
 				<NeueKampftechnik>
-					<Name>Hibewaffen</Name>
+					<Name>Hiebwaffen</Name>
 					<Kampftechnikwert>6</Kampftechnikwert>
 					<Leiteigenschaft>KK</Leiteigenschaft>
 					<Steigerungskosten>C</Steigerungskosten>
