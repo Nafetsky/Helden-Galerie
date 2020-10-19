@@ -246,6 +246,11 @@
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
+			<Name>Rechnen</Name>
+			<Fertigkeitswert>1</Fertigkeitswert>
+			<Merkmal>Wissen</Merkmal>
+		</Talent>
+		<Talent>
 			<Name>Rechtskunde</Name>
 			<Fertigkeitswert>3</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
@@ -401,6 +406,12 @@
 		<Kampftechnik>
 			<Name>Zweihandhiebwaffen</Name>
 			<Kampftechnikwert>7</Kampftechnikwert>
+			<Leiteigenschaft>KK</Leiteigenschaft>
+			<Steigerungskosten>C</Steigerungskosten>
+		</Kampftechnik>
+		<Kampftechnik>
+			<Name>Schilde</Name>
+			<Kampftechnikwert>10</Kampftechnikwert>
 			<Leiteigenschaft>KK</Leiteigenschaft>
 			<Steigerungskosten>C</Steigerungskosten>
 		</Kampftechnik>
@@ -720,6 +731,11 @@
 				<neuerWert>8</neuerWert>
 			</Fertigkeitsänderung>
 			<Fertigkeitsänderung>
+				<Name>Rechnen</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>1</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
 				<Name>Rechtskunde</Name>
 				<Änderung>3</Änderung>
 				<neuerWert>3</neuerWert>
@@ -907,6 +923,33 @@
 				<neuerWert>0</neuerWert>
 				<NeueKampftechnik>
 					<Name>Zweihandhiebwaffen</Name>
+					<Kampftechnikwert>6</Kampftechnikwert>
+					<Leiteigenschaft>KK</Leiteigenschaft>
+					<Steigerungskosten>C</Steigerungskosten>
+				</NeueKampftechnik>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2020-10-19</Datum>
+			<Grund>Wintertraining in Zweimühlen</Grund>
+			<Fertigkeitsänderung>
+				<Name>Schilde</Name>
+				<Änderung>4</Änderung>
+				<neuerWert>10</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Schilde</Name>
+				<Änderung>0</Änderung>
+				<neuerWert>0</neuerWert>
+				<NeueKampftechnik>
+					<Name>Schilde</Name>
 					<Kampftechnikwert>6</Kampftechnikwert>
 					<Leiteigenschaft>KK</Leiteigenschaft>
 					<Steigerungskosten>C</Steigerungskosten>
