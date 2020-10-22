@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:Charakter xmlns:ns2="http://www.example.org/Charakter/">
 	<Name>Barundar Schwarzbart</Name>
+	<Geschlecht>männlich</Geschlecht>
 	<Spezies>
 		<Name>Zwerg</Name>
 		<BasisLeben>8</BasisLeben>
@@ -9,7 +10,15 @@
 		<BasisGeschwindigkeit>6</BasisGeschwindigkeit>
 		<Kosten>61</Kosten>
 	</Spezies>
-	<Kultur/>
+	<Kultur>Ambosszwerge</Kultur>
+	<Angaben>
+		<Größe>140</Größe>
+		<Gewicht>70</Gewicht>
+		<Haarfarbe>schwarz</Haarfarbe>
+		<Augenfarbe>braun</Augenfarbe>
+		<Geburtstag>13.11.980</Geburtstag>
+		<Alter>54</Alter>
+	</Angaben>
 	<Eigenschaftswerte>
 		<Mut Attributswert="16" Kürzel="MU"/>
 		<Klugheit Attributswert="14" Kürzel="KL"/>
@@ -114,7 +123,8 @@
 			<Kosten>0</Kosten>
 		</Nachteil>
 	</Nachteile>
-	<AP>2319</AP>
+	<AP>2336</AP>
+	<LeP>1</LeP>
 	<Talente>
 		<Talent>
 			<Name>Klettern</Name>
@@ -625,6 +635,16 @@
 			<Name>Hibwaffenspezialisierung (Lindwurmschlägel)</Name>
 			<Kosten>3</Kosten>
 			<Kategorie>Kampf</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Lehrer I</Name>
+			<Kosten>3</Kosten>
+			<Kategorie>Allgemein</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Baumeister</Name>
+			<Kosten>10</Kosten>
+			<Kategorie>Allgemein</Kategorie>
 		</Sonderfertigkeit>
 		<Talentspezialisierung>
 			<Name>Puniner Ritus</Name>
@@ -1262,6 +1282,27 @@
 				<neuerWert>7</neuerWert>
 			</Fertigkeitsänderung>
 			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2020-10-22</Datum>
+			<Grund>Anpassungen nach Konvertierung</Grund>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Lehrer I</Name>
+				<Kosten>3</Kosten>
+				<Kategorie>Allgemein</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Baumeister</Name>
+				<Kosten>10</Kosten>
+				<Kategorie>Allgemein</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<LePGekauft>1</LePGekauft>
 			<AsPGekauft>0</AsPGekauft>
 			<AsPVerloren>0</AsPVerloren>
 			<AsPWiederhergestellt>0</AsPWiederhergestellt>
