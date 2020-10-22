@@ -223,7 +223,7 @@
 		</Talent>
 		<Talent>
 			<Name>Rechnen</Name>
-			<Fertigkeitswert>7</Fertigkeitswert>
+			<Fertigkeitswert>8</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
@@ -644,6 +644,11 @@
 		<Sonderfertigkeit>
 			<Name>Baumeister</Name>
 			<Kosten>10</Kosten>
+			<Kategorie>Allgemein</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Architekt</Name>
+			<Kosten>5</Kosten>
 			<Kategorie>Allgemein</Kategorie>
 		</Sonderfertigkeit>
 		<Talentspezialisierung>
@@ -1303,6 +1308,27 @@
 				<Kategorie>Allgemein</Kategorie>
 			</Sonderfertigkeitshinzugewinn>
 			<LePGekauft>1</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2020-10-22</Datum>
+			<Grund>Architekt nach Winter</Grund>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Architekt</Name>
+				<Kosten>5</Kosten>
+				<Kategorie>Allgemein</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Fertigkeitsänderung>
+				<Name>Rechnen</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>8</neuerWert>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
 			<AsPGekauft>0</AsPGekauft>
 			<AsPVerloren>0</AsPVerloren>
 			<AsPWiederhergestellt>0</AsPWiederhergestellt>
