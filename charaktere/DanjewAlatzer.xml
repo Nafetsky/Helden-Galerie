@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <ns2:Charakter xmlns:ns2="http://www.example.org/Charakter/">
 	<Name>Danjew Alatzer</Name>
+	<Geschlecht>männlich</Geschlecht>
 	<Spezies>
 		<Name>Mensch</Name>
 		<BasisLeben>5</BasisLeben>
@@ -163,12 +164,12 @@
 		</Talent>
 		<Talent>
 			<Name>Geographie</Name>
-			<Fertigkeitswert>0</Fertigkeitswert>
+			<Fertigkeitswert>2</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
 			<Name>Geschichtswissen</Name>
-			<Fertigkeitswert>3</Fertigkeitswert>
+			<Fertigkeitswert>5</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
@@ -1034,6 +1035,27 @@
 				<Name>Stangenwaffen</Name>
 				<Änderung>1</Änderung>
 				<neuerWert>12</neuerWert>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2020-10-22</Datum>
+			<Grund>Recherche in Fasar</Grund>
+			<Fertigkeitsänderung>
+				<Name>Geschichtswissen</Name>
+				<Änderung>2</Änderung>
+				<neuerWert>5</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Geographie</Name>
+				<Änderung>2</Änderung>
+				<neuerWert>2</neuerWert>
 			</Fertigkeitsänderung>
 			<LePGekauft>0</LePGekauft>
 			<AsPGekauft>0</AsPGekauft>
