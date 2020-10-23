@@ -79,7 +79,7 @@
 			<Kosten>10</Kosten>
 		</Nachteil>
 	</Nachteile>
-	<AP>1298</AP>
+	<AP>1303</AP>
 	<Talente>
 		<Talent>
 			<Name>Fliegen</Name>
@@ -407,7 +407,7 @@
 			<Attribut1>MU</Attribut1>
 			<Attribut2>MU</Attribut2>
 			<Attribut3>CH</Attribut3>
-			<Fertigkeitswert>8</Fertigkeitswert>
+			<Fertigkeitswert>10</Fertigkeitswert>
 			<Steigerungskosten>B</Steigerungskosten>
 			<Kategorie>Liturgie</Kategorie>
 			<Merkmal>TRADITION_BORON</Merkmal>
@@ -1101,6 +1101,22 @@
 					<Merkmal>TRADITION_BORON</Merkmal>
 					<Merkmal>Allgemein</Merkmal>
 				</NeueFertigkeit>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2020-10-23</Datum>
+			<Grund>Abschluss:: Ordnung in der Lust, Wem der Gong schlägt und Korrekturen</Grund>
+			<Fertigkeitsänderung>
+				<Name>Kleiner Bann wider Untote</Name>
+				<Änderung>2</Änderung>
+				<neuerWert>10</neuerWert>
 			</Fertigkeitsänderung>
 			<LePGekauft>0</LePGekauft>
 			<AsPGekauft>0</AsPGekauft>
