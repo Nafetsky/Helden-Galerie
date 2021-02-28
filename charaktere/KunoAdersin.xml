@@ -58,7 +58,7 @@
 			<Kosten>5</Kosten>
 		</Nachteil>
 	</Nachteile>
-	<AP>1249</AP>
+	<AP>1285</AP>
 	<Talente>
 		<Talent>
 			<Name>Fliegen</Name>
@@ -132,7 +132,7 @@
 		</Talent>
 		<Talent>
 			<Name>Bekehren&amp; Überzeugen</Name>
-			<Fertigkeitswert>0</Fertigkeitswert>
+			<Fertigkeitswert>2</Fertigkeitswert>
 			<Merkmal>Gesellschaft</Merkmal>
 		</Talent>
 		<Talent>
@@ -162,7 +162,7 @@
 		</Talent>
 		<Talent>
 			<Name>Überreden</Name>
-			<Fertigkeitswert>2</Fertigkeitswert>
+			<Fertigkeitswert>4</Fertigkeitswert>
 			<Merkmal>Gesellschaft</Merkmal>
 		</Talent>
 		<Talent>
@@ -177,7 +177,7 @@
 		</Talent>
 		<Talent>
 			<Name>Fährtensuchen</Name>
-			<Fertigkeitswert>8</Fertigkeitswert>
+			<Fertigkeitswert>9</Fertigkeitswert>
 			<Merkmal>Natur</Merkmal>
 		</Talent>
 		<Talent>
@@ -232,7 +232,7 @@
 		</Talent>
 		<Talent>
 			<Name>Kriegskunst</Name>
-			<Fertigkeitswert>9</Fertigkeitswert>
+			<Fertigkeitswert>10</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
@@ -393,7 +393,7 @@
 		</Kampftechnik>
 		<Kampftechnik>
 			<Name>Schwerter</Name>
-			<Kampftechnikwert>12</Kampftechnikwert>
+			<Kampftechnikwert>13</Kampftechnikwert>
 			<Leiteigenschaft>GE</Leiteigenschaft>
 			<Steigerungskosten>C</Steigerungskosten>
 		</Kampftechnik>
@@ -486,6 +486,11 @@
 			<Name>Lehrer I</Name>
 			<Kosten>3</Kosten>
 			<Kategorie>Allgemein</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Wuchtschlag I</Name>
+			<Kosten>15</Kosten>
+			<Kategorie>Kampf</Kategorie>
 		</Sonderfertigkeit>
 		<Talentspezialisierung>
 			<Name>Lagersuche</Name>
@@ -995,6 +1000,47 @@
 				<Name>Musizieren</Name>
 				<Änderung>1</Änderung>
 				<neuerWert>1</neuerWert>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2021-02-28</Datum>
+			<Grund>Abschluss: Namenlose Tage in Zweimühlen</Grund>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Wuchtschlag I</Name>
+				<Kosten>15</Kosten>
+				<Kategorie>Kampf</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Fertigkeitsänderung>
+				<Name>Bekehren&amp; Überzeugen</Name>
+				<Änderung>2</Änderung>
+				<neuerWert>2</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Überreden</Name>
+				<Änderung>2</Änderung>
+				<neuerWert>4</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Fährtensuchen</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>9</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Kriegskunst</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>10</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Schwerter</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>13</neuerWert>
 			</Fertigkeitsänderung>
 			<LePGekauft>0</LePGekauft>
 			<AsPGekauft>0</AsPGekauft>
