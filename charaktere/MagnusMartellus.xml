@@ -78,7 +78,7 @@
 			<Kosten>20</Kosten>
 		</Nachteil>
 	</Nachteile>
-	<AP>1160</AP>
+	<AP>1180</AP>
 	<LostAsP>4</LostAsP>
 	<RestoredAsP>4</RestoredAsP>
 	<Talente>
@@ -124,7 +124,7 @@
 		</Talent>
 		<Talent>
 			<Name>Singen</Name>
-			<Fertigkeitswert>0</Fertigkeitswert>
+			<Fertigkeitswert>1</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
@@ -219,7 +219,7 @@
 		</Talent>
 		<Talent>
 			<Name>Pflanzenkunde</Name>
-			<Fertigkeitswert>3</Fertigkeitswert>
+			<Fertigkeitswert>4</Fertigkeitswert>
 			<Merkmal>Natur</Merkmal>
 		</Talent>
 		<Talent>
@@ -239,7 +239,7 @@
 		</Talent>
 		<Talent>
 			<Name>Geographie</Name>
-			<Fertigkeitswert>1</Fertigkeitswert>
+			<Fertigkeitswert>2</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
@@ -259,7 +259,7 @@
 		</Talent>
 		<Talent>
 			<Name>Magiekunde</Name>
-			<Fertigkeitswert>7</Fertigkeitswert>
+			<Fertigkeitswert>8</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
@@ -520,7 +520,7 @@
 		</Kampftechnik>
 		<Kampftechnik>
 			<Name>Stangenwaffen</Name>
-			<Kampftechnikwert>9</Kampftechnikwert>
+			<Kampftechnikwert>10</Kampftechnikwert>
 			<Leiteigenschaft>GE</Leiteigenschaft>
 			<Steigerungskosten>C</Steigerungskosten>
 		</Kampftechnik>
@@ -1050,6 +1050,42 @@
 				<Name>Pflanzenkunde</Name>
 				<Änderung>1</Änderung>
 				<neuerWert>3</neuerWert>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2021-03-04</Datum>
+			<Grund>Abschluss: Dämonisches Kroppzeug</Grund>
+			<Fertigkeitsänderung>
+				<Name>Singen</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>1</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Pflanzenkunde</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>4</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Geographie</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>2</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Magiekunde</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>8</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Stangenwaffen</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>10</neuerWert>
 			</Fertigkeitsänderung>
 			<LePGekauft>0</LePGekauft>
 			<AsPGekauft>0</AsPGekauft>
