@@ -78,7 +78,7 @@
 			<Kosten>20</Kosten>
 		</Nachteil>
 	</Nachteile>
-	<AP>1180</AP>
+	<AP>1190</AP>
 	<LostAsP>4</LostAsP>
 	<RestoredAsP>4</RestoredAsP>
 	<Talente>
@@ -395,7 +395,7 @@
 			<Attribut1>KL</Attribut1>
 			<Attribut2>KL</Attribut2>
 			<Attribut3>IN</Attribut3>
-			<Fertigkeitswert>2</Fertigkeitswert>
+			<Fertigkeitswert>4</Fertigkeitswert>
 			<Steigerungskosten>C</Steigerungskosten>
 			<Kategorie>Zauber</Kategorie>
 			<Merkmal>TRADITION_MAGIER</Merkmal>
@@ -472,7 +472,7 @@
 			<Attribut1>KL</Attribut1>
 			<Attribut2>IN</Attribut2>
 			<Attribut3>IN</Attribut3>
-			<Fertigkeitswert>5</Fertigkeitswert>
+			<Fertigkeitswert>7</Fertigkeitswert>
 			<Steigerungskosten>A</Steigerungskosten>
 			<Kategorie>Zauber</Kategorie>
 			<Merkmal>TRADITION_MAGIER</Merkmal>
@@ -1086,6 +1086,48 @@
 				<Name>Stangenwaffen</Name>
 				<Änderung>1</Änderung>
 				<neuerWert>10</neuerWert>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2021-04-13</Datum>
+			<Grund>Arbeiten in Zweimühlen</Grund>
+			<Fertigkeitsänderung>
+				<Name>Odem Arcanum</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>6</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Analys Arkanstruktur</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>3</neuerWert>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2021-04-13</Datum>
+			<Grund>Abschluss: Blut für den Blutgott, Nebenrolle</Grund>
+			<Fertigkeitsänderung>
+				<Name>Analys Arkanstruktur</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>4</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Odem Arcanum</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>7</neuerWert>
 			</Fertigkeitsänderung>
 			<LePGekauft>0</LePGekauft>
 			<AsPGekauft>0</AsPGekauft>
