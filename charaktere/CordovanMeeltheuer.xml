@@ -82,7 +82,7 @@
 			<Kosten>5</Kosten>
 		</Nachteil>
 	</Nachteile>
-	<AP>1196</AP>
+	<AP>1236</AP>
 	<Talente>
 		<Talent>
 			<Name>Fliegen</Name>
@@ -1047,6 +1047,17 @@
 				<Änderung>1</Änderung>
 				<neuerWert>10</neuerWert>
 			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2022-01-28</Datum>
+			<Grund>Abschluss: Namenlose Tage in Zweimühlen</Grund>
 			<LePGekauft>0</LePGekauft>
 			<AsPGekauft>0</AsPGekauft>
 			<AsPVerloren>0</AsPVerloren>
