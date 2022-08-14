@@ -143,7 +143,7 @@
 		</Talent>
 		<Talent>
 			<Name>Reiten</Name>
-			<Fertigkeitswert>10</Fertigkeitswert>
+			<Fertigkeitswert>11</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
@@ -213,7 +213,7 @@
 		</Talent>
 		<Talent>
 			<Name>Kriegskunst</Name>
-			<Fertigkeitswert>10</Fertigkeitswert>
+			<Fertigkeitswert>11</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
@@ -293,7 +293,7 @@
 		</Talent>
 		<Talent>
 			<Name>Sinnesschärfe</Name>
-			<Fertigkeitswert>8</Fertigkeitswert>
+			<Fertigkeitswert>9</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
@@ -328,7 +328,7 @@
 		</Talent>
 		<Talent>
 			<Name>Einschüchtern</Name>
-			<Fertigkeitswert>5</Fertigkeitswert>
+			<Fertigkeitswert>6</Fertigkeitswert>
 			<Merkmal>Gesellschaft</Merkmal>
 		</Talent>
 		<Talent>
@@ -1395,6 +1395,37 @@
 				<Name>Etikette</Name>
 				<Änderung>1</Änderung>
 				<neuerWert>7</neuerWert>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2022-08-14</Datum>
+			<Grund>Abschluss: Der Schlacht entgegenfiebern</Grund>
+			<Fertigkeitsänderung>
+				<Name>Reiten</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>11</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Kriegskunst</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>11</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Sinnesschärfe</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>9</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Einschüchtern</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>6</neuerWert>
 			</Fertigkeitsänderung>
 			<LePGekauft>0</LePGekauft>
 			<AsPGekauft>0</AsPGekauft>
