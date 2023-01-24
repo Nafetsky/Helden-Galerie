@@ -18,7 +18,7 @@
 		<Charisma Attributswert="14" Kürzel="CH"/>
 		<Fingerfertigkeit Attributswert="12" Kürzel="FF"/>
 		<Gewandheit Attributswert="12" Kürzel="GE"/>
-		<Konstitution Attributswert="10" Kürzel="KO"/>
+		<Konstitution Attributswert="11" Kürzel="KO"/>
 		<Körperkraft Attributswert="13" Kürzel="KK"/>
 	</Eigenschaftswerte>
 	<Kommunikatives>
@@ -87,7 +87,7 @@
 			<Kosten>10</Kosten>
 		</Nachteil>
 	</Nachteile>
-	<AP>1189</AP>
+	<AP>1239</AP>
 	<LostAsP>2</LostAsP>
 	<RestoredAsP>2</RestoredAsP>
 	<Talente>
@@ -98,7 +98,7 @@
 		</Talent>
 		<Talent>
 			<Name>Körperbeherrschung</Name>
-			<Fertigkeitswert>5</Fertigkeitswert>
+			<Fertigkeitswert>6</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
@@ -118,7 +118,7 @@
 		</Talent>
 		<Talent>
 			<Name>Selbstbeherrschung</Name>
-			<Fertigkeitswert>4</Fertigkeitswert>
+			<Fertigkeitswert>5</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
@@ -133,12 +133,12 @@
 		</Talent>
 		<Talent>
 			<Name>Menschenkenntnis</Name>
-			<Fertigkeitswert>5</Fertigkeitswert>
+			<Fertigkeitswert>6</Fertigkeitswert>
 			<Merkmal>Gesellschaft</Merkmal>
 		</Talent>
 		<Talent>
 			<Name>Überreden</Name>
-			<Fertigkeitswert>6</Fertigkeitswert>
+			<Fertigkeitswert>7</Fertigkeitswert>
 			<Merkmal>Gesellschaft</Merkmal>
 		</Talent>
 		<Talent>
@@ -188,7 +188,7 @@
 		</Talent>
 		<Talent>
 			<Name>Magiekunde</Name>
-			<Fertigkeitswert>5</Fertigkeitswert>
+			<Fertigkeitswert>6</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
@@ -198,12 +198,12 @@
 		</Talent>
 		<Talent>
 			<Name>Rechtskunde</Name>
-			<Fertigkeitswert>3</Fertigkeitswert>
+			<Fertigkeitswert>4</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
 			<Name>Sagen&amp; Legenden</Name>
-			<Fertigkeitswert>3</Fertigkeitswert>
+			<Fertigkeitswert>4</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
@@ -475,6 +475,17 @@
 			<Merkmal>TRADITION_ELF</Merkmal>
 			<Merkmal>Antimagie</Merkmal>
 		</Zauber>
+		<Zauber>
+			<Name>Plumbumbarum</Name>
+			<Attribut1>MU</Attribut1>
+			<Attribut2>CH</Attribut2>
+			<Attribut3>GE</Attribut3>
+			<Fertigkeitswert>3</Fertigkeitswert>
+			<Steigerungskosten>B</Steigerungskosten>
+			<Kategorie>Zauber</Kategorie>
+			<Merkmal>TRADITION_MAGIER</Merkmal>
+			<Merkmal>Einfluss</Merkmal>
+		</Zauber>
 	</Zauber>
 	<Rituale/>
 	<Liturgien/>
@@ -521,6 +532,11 @@
 		<Sonderfertigkeit>
 			<Name>Zaubertrick: Feenzauber</Name>
 			<Kosten>1</Kosten>
+			<Kategorie>Magisch</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Stabzauber: Seil des Adepten</Name>
+			<Kosten>10</Kosten>
 			<Kategorie>Magisch</Kategorie>
 		</Sonderfertigkeit>
 		<Talentspezialisierung>
@@ -1147,6 +1163,78 @@
 				<Name>Odem Arcanum</Name>
 				<Änderung>1</Änderung>
 				<neuerWert>7</neuerWert>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2023-01-24</Datum>
+			<Grund>Abschluss DC: 24 Stunden in Khunchom</Grund>
+			<Eigenschaftssteigerung>
+				<Eigenschaft>KO</Eigenschaft>
+				<Steigerung>1</Steigerung>
+				<neuerWert>11</neuerWert>
+			</Eigenschaftssteigerung>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Stabzauber: Seil des Adepten</Name>
+				<Kosten>10</Kosten>
+				<Kategorie>Magisch</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Fertigkeitsänderung>
+				<Name>Körperbeherrschung</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>6</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Selbstbeherrschung</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>5</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Menschenkenntnis</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>6</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Magiekunde</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>6</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Überreden</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>7</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Rechtskunde</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>4</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Sagen&amp; Legenden</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>4</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Plumbumbarum</Name>
+				<Änderung>3</Änderung>
+				<neuerWert>3</neuerWert>
+				<NeueFertigkeit>
+					<Name>Plumbumbarum</Name>
+					<Attribut1>MU</Attribut1>
+					<Attribut2>CH</Attribut2>
+					<Attribut3>GE</Attribut3>
+					<Fertigkeitswert>0</Fertigkeitswert>
+					<Steigerungskosten>B</Steigerungskosten>
+					<Kategorie>Zauber</Kategorie>
+					<Merkmal>TRADITION_MAGIER</Merkmal>
+					<Merkmal>Einfluss</Merkmal>
+				</NeueFertigkeit>
 			</Fertigkeitsänderung>
 			<LePGekauft>0</LePGekauft>
 			<AsPGekauft>0</AsPGekauft>
