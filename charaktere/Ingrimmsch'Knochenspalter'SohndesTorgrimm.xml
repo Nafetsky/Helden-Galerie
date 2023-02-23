@@ -14,7 +14,7 @@
 	<Eigenschaftswerte>
 		<Mut Attributswert="17" Kürzel="MU"/>
 		<Klugheit Attributswert="11" Kürzel="KL"/>
-		<Intuition Attributswert="11" Kürzel="IN"/>
+		<Intuition Attributswert="12" Kürzel="IN"/>
 		<Charisma Attributswert="12" Kürzel="CH"/>
 		<Fingerfertigkeit Attributswert="12" Kürzel="FF"/>
 		<Gewandheit Attributswert="12" Kürzel="GE"/>
@@ -123,7 +123,7 @@
 			<Kosten>0</Kosten>
 		</Nachteil>
 	</Nachteile>
-	<AP>0</AP>
+	<AP>1876</AP>
 	<Talente>
 		<Talent>
 			<Name>Fliegen</Name>
@@ -142,17 +142,17 @@
 		</Talent>
 		<Talent>
 			<Name>Körperbeherrschung</Name>
-			<Fertigkeitswert>7</Fertigkeitswert>
+			<Fertigkeitswert>8</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
 			<Name>Kraftakt</Name>
-			<Fertigkeitswert>2</Fertigkeitswert>
+			<Fertigkeitswert>5</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
 			<Name>Reiten</Name>
-			<Fertigkeitswert>5</Fertigkeitswert>
+			<Fertigkeitswert>6</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
@@ -162,7 +162,7 @@
 		</Talent>
 		<Talent>
 			<Name>Selbstbeherrschung</Name>
-			<Fertigkeitswert>5</Fertigkeitswert>
+			<Fertigkeitswert>6</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
@@ -172,7 +172,7 @@
 		</Talent>
 		<Talent>
 			<Name>Sinnesschärfe</Name>
-			<Fertigkeitswert>7</Fertigkeitswert>
+			<Fertigkeitswert>8</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
@@ -207,7 +207,7 @@
 		</Talent>
 		<Talent>
 			<Name>Einschüchtern</Name>
-			<Fertigkeitswert>1</Fertigkeitswert>
+			<Fertigkeitswert>4</Fertigkeitswert>
 			<Merkmal>Gesellschaft</Merkmal>
 		</Talent>
 		<Talent>
@@ -227,7 +227,7 @@
 		</Talent>
 		<Talent>
 			<Name>Überreden</Name>
-			<Fertigkeitswert>6</Fertigkeitswert>
+			<Fertigkeitswert>8</Fertigkeitswert>
 			<Merkmal>Gesellschaft</Merkmal>
 		</Talent>
 		<Talent>
@@ -257,7 +257,7 @@
 		</Talent>
 		<Talent>
 			<Name>Orientierung</Name>
-			<Fertigkeitswert>4</Fertigkeitswert>
+			<Fertigkeitswert>5</Fertigkeitswert>
 			<Merkmal>Natur</Merkmal>
 		</Talent>
 		<Talent>
@@ -272,7 +272,7 @@
 		</Talent>
 		<Talent>
 			<Name>Wildnisleben</Name>
-			<Fertigkeitswert>6</Fertigkeitswert>
+			<Fertigkeitswert>7</Fertigkeitswert>
 			<Merkmal>Natur</Merkmal>
 		</Talent>
 		<Talent>
@@ -282,12 +282,12 @@
 		</Talent>
 		<Talent>
 			<Name>Geographie</Name>
-			<Fertigkeitswert>8</Fertigkeitswert>
+			<Fertigkeitswert>9</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
 			<Name>Geschichtswissen</Name>
-			<Fertigkeitswert>3</Fertigkeitswert>
+			<Fertigkeitswert>4</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
@@ -302,7 +302,7 @@
 		</Talent>
 		<Talent>
 			<Name>Magiekunde</Name>
-			<Fertigkeitswert>2</Fertigkeitswert>
+			<Fertigkeitswert>4</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
@@ -322,7 +322,7 @@
 		</Talent>
 		<Talent>
 			<Name>Sagen&amp; Legenden</Name>
-			<Fertigkeitswert>6</Fertigkeitswert>
+			<Fertigkeitswert>7</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
@@ -347,7 +347,7 @@
 		</Talent>
 		<Talent>
 			<Name>Fahrzeuge</Name>
-			<Fertigkeitswert>0</Fertigkeitswert>
+			<Fertigkeitswert>8</Fertigkeitswert>
 			<Merkmal>Handwerk</Merkmal>
 		</Talent>
 		<Talent>
@@ -537,6 +537,16 @@
 		</Sonderfertigkeit>
 		<Sonderfertigkeit>
 			<Name>Wuchtschlag II</Name>
+			<Kosten>20</Kosten>
+			<Kategorie>Kampf</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Belastungsgewöhnung II</Name>
+			<Kosten>35</Kosten>
+			<Kategorie>Kampf</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Formation</Name>
 			<Kosten>20</Kosten>
 			<Kategorie>Kampf</Kategorie>
 		</Sonderfertigkeit>
@@ -971,6 +981,102 @@
 					<Leiteigenschaft>KK</Leiteigenschaft>
 					<Steigerungskosten>C</Steigerungskosten>
 				</NeueKampftechnik>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2023-02-23</Datum>
+			<Grund>Vorbereitungen Donner &amp;Sturm</Grund>
+			<Eigenschaftssteigerung>
+				<Eigenschaft>IN</Eigenschaft>
+				<Steigerung>1</Steigerung>
+				<neuerWert>12</neuerWert>
+			</Eigenschaftssteigerung>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Belastungsgewöhnung II</Name>
+				<Kosten>35</Kosten>
+				<Kategorie>Kampf</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Formation</Name>
+				<Kosten>20</Kosten>
+				<Kategorie>Kampf</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Fertigkeitsänderung>
+				<Name>Körperbeherrschung</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>8</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Kraftakt</Name>
+				<Änderung>3</Änderung>
+				<neuerWert>5</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Reiten</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>6</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Selbstbeherrschung</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>6</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Sinnesschärfe</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>8</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Einschüchtern</Name>
+				<Änderung>3</Änderung>
+				<neuerWert>4</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Überreden</Name>
+				<Änderung>2</Änderung>
+				<neuerWert>8</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Orientierung</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>5</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Wildnisleben</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>7</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Geographie</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>9</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Geschichtswissen</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>4</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Magiekunde</Name>
+				<Änderung>2</Änderung>
+				<neuerWert>4</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Sagen&amp; Legenden</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>7</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Fahrzeuge</Name>
+				<Änderung>8</Änderung>
+				<neuerWert>8</neuerWert>
 			</Fertigkeitsänderung>
 			<LePGekauft>0</LePGekauft>
 			<AsPGekauft>0</AsPGekauft>
