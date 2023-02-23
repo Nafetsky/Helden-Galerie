@@ -123,7 +123,7 @@
 			<Kosten>0</Kosten>
 		</Nachteil>
 	</Nachteile>
-	<AP>1876</AP>
+	<AP>1888</AP>
 	<Talente>
 		<Talent>
 			<Name>Fliegen</Name>
@@ -197,7 +197,7 @@
 		</Talent>
 		<Talent>
 			<Name>Bekehren&amp; Überzeugen</Name>
-			<Fertigkeitswert>8</Fertigkeitswert>
+			<Fertigkeitswert>9</Fertigkeitswert>
 			<Merkmal>Gesellschaft</Merkmal>
 		</Talent>
 		<Talent>
@@ -1077,6 +1077,22 @@
 				<Name>Fahrzeuge</Name>
 				<Änderung>8</Änderung>
 				<neuerWert>8</neuerWert>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2023-02-23</Datum>
+			<Grund>Namenlosentage in Zweimühlen</Grund>
+			<Fertigkeitsänderung>
+				<Name>Bekehren&amp; Überzeugen</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>9</neuerWert>
 			</Fertigkeitsänderung>
 			<LePGekauft>0</LePGekauft>
 			<AsPGekauft>0</AsPGekauft>
