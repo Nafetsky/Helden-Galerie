@@ -87,7 +87,7 @@
 	<Talente>
 		<Talent>
 			<Name>Fliegen</Name>
-			<Fertigkeitswert>0</Fertigkeitswert>
+			<Fertigkeitswert>1</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
@@ -102,7 +102,7 @@
 		</Talent>
 		<Talent>
 			<Name>Körperbeherrschung</Name>
-			<Fertigkeitswert>3</Fertigkeitswert>
+			<Fertigkeitswert>4</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
@@ -262,7 +262,7 @@
 		</Talent>
 		<Talent>
 			<Name>Magiekunde</Name>
-			<Fertigkeitswert>2</Fertigkeitswert>
+			<Fertigkeitswert>3</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
@@ -277,12 +277,12 @@
 		</Talent>
 		<Talent>
 			<Name>Rechtskunde</Name>
-			<Fertigkeitswert>3</Fertigkeitswert>
+			<Fertigkeitswert>4</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
 			<Name>Sagen&amp; Legenden</Name>
-			<Fertigkeitswert>5</Fertigkeitswert>
+			<Fertigkeitswert>6</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
@@ -327,7 +327,7 @@
 		</Talent>
 		<Talent>
 			<Name>Heilkunde Seele</Name>
-			<Fertigkeitswert>10</Fertigkeitswert>
+			<Fertigkeitswert>11</Fertigkeitswert>
 			<Merkmal>Handwerk</Merkmal>
 		</Talent>
 		<Talent>
@@ -389,7 +389,7 @@
 			<Attribut1>IN</Attribut1>
 			<Attribut2>CH</Attribut2>
 			<Attribut3>CH</Attribut3>
-			<Fertigkeitswert>9</Fertigkeitswert>
+			<Fertigkeitswert>10</Fertigkeitswert>
 			<Steigerungskosten>B</Steigerungskosten>
 			<Kategorie>Liturgie</Kategorie>
 			<Merkmal>TRADITION_BORON</Merkmal>
@@ -1137,7 +1137,7 @@
 		</Ereignis>
 		<Ereignis>
 			<Datum>2023-06-19</Datum>
-			<Grund>Abschluss: DC, Ausgrabungen in Khom</Grund>
+			<Grund>Abschluss: Ausgrabungen in Khunchom</Grund>
 			<Sonderfertigkeitshinzugewinn>
 				<Name>Spezialisierter Exorzismus (Geister)</Name>
 				<Kosten>3</Kosten>
@@ -1175,6 +1175,52 @@
 			</Fertigkeitsänderung>
 			<Fertigkeitsänderung>
 				<Name>Schilde</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>10</neuerWert>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2023-06-19</Datum>
+			<Grund>Abschluss DC: 24 Stunden in Khunchom</Grund>
+			<Fertigkeitsänderung>
+				<Name>Magiekunde</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>3</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Sagen&amp; Legenden</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>6</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Rechtskunde</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>4</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Körperbeherrschung</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>4</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Fliegen</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>1</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Heilkunde Seele</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>11</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Bann der Furcht</Name>
 				<Änderung>1</Änderung>
 				<neuerWert>10</neuerWert>
 			</Fertigkeitsänderung>
