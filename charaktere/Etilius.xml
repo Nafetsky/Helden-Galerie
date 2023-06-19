@@ -42,6 +42,10 @@
 			<Name>Isdira</Name>
 			<Stufe>1</Stufe>
 		</Sprachen>
+		<Sprachen>
+			<Name>Tulamydia</Name>
+			<Stufe>1</Stufe>
+		</Sprachen>
 		<Schriften>
 			<Name>Kusliker Zeichen</Name>
 			<Komplexität>A</Komplexität>
@@ -79,7 +83,7 @@
 			<Kosten>10</Kosten>
 		</Nachteil>
 	</Nachteile>
-	<AP>1303</AP>
+	<AP>1343</AP>
 	<Talente>
 		<Talent>
 			<Name>Fliegen</Name>
@@ -93,12 +97,12 @@
 		</Talent>
 		<Talent>
 			<Name>Klettern</Name>
-			<Fertigkeitswert>1</Fertigkeitswert>
+			<Fertigkeitswert>2</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
 			<Name>Körperbeherrschung</Name>
-			<Fertigkeitswert>2</Fertigkeitswert>
+			<Fertigkeitswert>3</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
@@ -228,7 +232,7 @@
 		</Talent>
 		<Talent>
 			<Name>Wildnisleben</Name>
-			<Fertigkeitswert>2</Fertigkeitswert>
+			<Fertigkeitswert>3</Fertigkeitswert>
 			<Merkmal>Natur</Merkmal>
 		</Talent>
 		<Talent>
@@ -238,7 +242,7 @@
 		</Talent>
 		<Talent>
 			<Name>Geographie</Name>
-			<Fertigkeitswert>1</Fertigkeitswert>
+			<Fertigkeitswert>2</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
@@ -248,7 +252,7 @@
 		</Talent>
 		<Talent>
 			<Name>Götter&amp; Kulte</Name>
-			<Fertigkeitswert>9</Fertigkeitswert>
+			<Fertigkeitswert>10</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
@@ -442,7 +446,7 @@
 			<Attribut1>MU</Attribut1>
 			<Attribut2>IN</Attribut2>
 			<Attribut3>CH</Attribut3>
-			<Fertigkeitswert>8</Fertigkeitswert>
+			<Fertigkeitswert>9</Fertigkeitswert>
 			<Steigerungskosten>B</Steigerungskosten>
 			<Kategorie>Zeremonie</Kategorie>
 			<Merkmal>TRADITION_BORON</Merkmal>
@@ -486,7 +490,7 @@
 		</Kampftechnik>
 		<Kampftechnik>
 			<Name>Schilde</Name>
-			<Kampftechnikwert>9</Kampftechnikwert>
+			<Kampftechnikwert>10</Kampftechnikwert>
 			<Leiteigenschaft>KK</Leiteigenschaft>
 			<Steigerungskosten>C</Steigerungskosten>
 		</Kampftechnik>
@@ -580,6 +584,11 @@
 		<Sonderfertigkeit>
 			<Name>Segnung: Weisheitssegen</Name>
 			<Kosten>1</Kosten>
+			<Kategorie>Karmal</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Spezialisierter Exorzismus (Geister)</Name>
+			<Kosten>3</Kosten>
 			<Kategorie>Karmal</Kategorie>
 		</Sonderfertigkeit>
 		<Talentspezialisierung>
@@ -1116,6 +1125,57 @@
 			<Fertigkeitsänderung>
 				<Name>Kleiner Bann wider Untote</Name>
 				<Änderung>2</Änderung>
+				<neuerWert>10</neuerWert>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2023-06-19</Datum>
+			<Grund>Abschluss: DC, Ausgrabungen in Khom</Grund>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Spezialisierter Exorzismus (Geister)</Name>
+				<Kosten>3</Kosten>
+				<Kategorie>Karmal</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Fertigkeitsänderung>
+				<Name>Klettern</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>2</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Wildnisleben</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>3</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Körperbeherrschung</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>3</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Geographie</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>2</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Exorzismus</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>9</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Götter&amp; Kulte</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>10</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Schilde</Name>
+				<Änderung>1</Änderung>
 				<neuerWert>10</neuerWert>
 			</Fertigkeitsänderung>
 			<LePGekauft>0</LePGekauft>
