@@ -123,7 +123,7 @@
 			<Kosten>0</Kosten>
 		</Nachteil>
 	</Nachteile>
-	<AP>2363</AP>
+	<AP>2368</AP>
 	<LeP>1</LeP>
 	<Talente>
 		<Talent>
@@ -183,7 +183,7 @@
 		</Talent>
 		<Talent>
 			<Name>Pflanzenkunde</Name>
-			<Fertigkeitswert>4</Fertigkeitswert>
+			<Fertigkeitswert>5</Fertigkeitswert>
 			<Merkmal>Natur</Merkmal>
 		</Talent>
 		<Talent>
@@ -193,7 +193,7 @@
 		</Talent>
 		<Talent>
 			<Name>Wildnisleben</Name>
-			<Fertigkeitswert>11</Fertigkeitswert>
+			<Fertigkeitswert>12</Fertigkeitswert>
 			<Merkmal>Natur</Merkmal>
 		</Talent>
 		<Talent>
@@ -1457,6 +1457,27 @@
 				<Name>Sinnesschärfe</Name>
 				<Änderung>1</Änderung>
 				<neuerWert>10</neuerWert>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2023-12-19</Datum>
+			<Grund>Abschluss: Praios Lob in Praiosdank</Grund>
+			<Fertigkeitsänderung>
+				<Name>Wildnisleben</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>12</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Pflanzenkunde</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>5</neuerWert>
 			</Fertigkeitsänderung>
 			<LePGekauft>0</LePGekauft>
 			<AsPGekauft>0</AsPGekauft>
