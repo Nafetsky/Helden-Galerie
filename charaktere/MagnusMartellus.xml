@@ -78,7 +78,7 @@
 			<Kosten>20</Kosten>
 		</Nachteil>
 	</Nachteile>
-	<AP>1190</AP>
+	<AP>1240</AP>
 	<LostAsP>4</LostAsP>
 	<RestoredAsP>4</RestoredAsP>
 	<Talente>
@@ -99,7 +99,7 @@
 		</Talent>
 		<Talent>
 			<Name>Körperbeherrschung</Name>
-			<Fertigkeitswert>2</Fertigkeitswert>
+			<Fertigkeitswert>3</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
@@ -129,7 +129,7 @@
 		</Talent>
 		<Talent>
 			<Name>Sinnesschärfe</Name>
-			<Fertigkeitswert>4</Fertigkeitswert>
+			<Fertigkeitswert>5</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
@@ -184,7 +184,7 @@
 		</Talent>
 		<Talent>
 			<Name>Überreden</Name>
-			<Fertigkeitswert>4</Fertigkeitswert>
+			<Fertigkeitswert>5</Fertigkeitswert>
 			<Merkmal>Gesellschaft</Merkmal>
 		</Talent>
 		<Talent>
@@ -259,7 +259,7 @@
 		</Talent>
 		<Talent>
 			<Name>Magiekunde</Name>
-			<Fertigkeitswert>8</Fertigkeitswert>
+			<Fertigkeitswert>9</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
@@ -284,7 +284,7 @@
 		</Talent>
 		<Talent>
 			<Name>Sphärenkunde</Name>
-			<Fertigkeitswert>5</Fertigkeitswert>
+			<Fertigkeitswert>6</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
@@ -324,7 +324,7 @@
 		</Talent>
 		<Talent>
 			<Name>Heilkunde Seele</Name>
-			<Fertigkeitswert>5</Fertigkeitswert>
+			<Fertigkeitswert>7</Fertigkeitswert>
 			<Merkmal>Handwerk</Merkmal>
 		</Talent>
 		<Talent>
@@ -395,7 +395,7 @@
 			<Attribut1>KL</Attribut1>
 			<Attribut2>KL</Attribut2>
 			<Attribut3>IN</Attribut3>
-			<Fertigkeitswert>4</Fertigkeitswert>
+			<Fertigkeitswert>5</Fertigkeitswert>
 			<Steigerungskosten>C</Steigerungskosten>
 			<Kategorie>Zauber</Kategorie>
 			<Merkmal>TRADITION_MAGIER</Merkmal>
@@ -472,7 +472,7 @@
 			<Attribut1>KL</Attribut1>
 			<Attribut2>IN</Attribut2>
 			<Attribut3>IN</Attribut3>
-			<Fertigkeitswert>7</Fertigkeitswert>
+			<Fertigkeitswert>8</Fertigkeitswert>
 			<Steigerungskosten>A</Steigerungskosten>
 			<Kategorie>Zauber</Kategorie>
 			<Merkmal>TRADITION_MAGIER</Merkmal>
@@ -483,7 +483,7 @@
 			<Attribut1>MU</Attribut1>
 			<Attribut2>KL</Attribut2>
 			<Attribut3>CH</Attribut3>
-			<Fertigkeitswert>10</Fertigkeitswert>
+			<Fertigkeitswert>11</Fertigkeitswert>
 			<Steigerungskosten>C</Steigerungskosten>
 			<Kategorie>Zauber</Kategorie>
 			<Merkmal>TRADITION_MAGIER</Merkmal>
@@ -496,7 +496,7 @@
 			<Attribut1>KL</Attribut1>
 			<Attribut2>CH</Attribut2>
 			<Attribut3>KO</Attribut3>
-			<Fertigkeitswert>7</Fertigkeitswert>
+			<Fertigkeitswert>8</Fertigkeitswert>
 			<Steigerungskosten>B</Steigerungskosten>
 			<Kategorie>Ritual</Kategorie>
 			<Merkmal>TRADITION_MAGIER</Merkmal>
@@ -1128,6 +1128,67 @@
 				<Name>Odem Arcanum</Name>
 				<Änderung>1</Änderung>
 				<neuerWert>7</neuerWert>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2024-10-20</Datum>
+			<Grund>Abschluss: Vae Victis vs Vertias vincit</Grund>
+			<Fertigkeitsänderung>
+				<Name>Körperbeherrschung</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>3</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Sinnesschärfe</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>5</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Überreden</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>5</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Heilkunde Seele</Name>
+				<Änderung>2</Änderung>
+				<neuerWert>7</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Odem Arcanum</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>8</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Pentagramma</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>11</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Ruhe Körper</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>8</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Analys Arkanstruktur</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>5</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Sphärenkunde</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>6</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Magiekunde</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>9</neuerWert>
 			</Fertigkeitsänderung>
 			<LePGekauft>0</LePGekauft>
 			<AsPGekauft>0</AsPGekauft>
