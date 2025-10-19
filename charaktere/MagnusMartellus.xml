@@ -324,7 +324,7 @@
 		</Talent>
 		<Talent>
 			<Name>Heilkunde Seele</Name>
-			<Fertigkeitswert>7</Fertigkeitswert>
+			<Fertigkeitswert>9</Fertigkeitswert>
 			<Merkmal>Handwerk</Merkmal>
 		</Talent>
 		<Talent>
@@ -559,6 +559,16 @@
 		<Sonderfertigkeit>
 			<Name>Scholar der Schule der Austreibung zu Perricum</Name>
 			<Kosten>12</Kosten>
+			<Kategorie>Magisch</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Fokus der Austreibung</Name>
+			<Kosten>15</Kosten>
+			<Kategorie>Magisch</Kategorie>
+		</Sonderfertigkeit>
+		<Sonderfertigkeit>
+			<Name>Exorzist I</Name>
+			<Kosten>10</Kosten>
 			<Kategorie>Magisch</Kategorie>
 		</Sonderfertigkeit>
 	</Sonderfertigkeiten>
@@ -1188,6 +1198,32 @@
 			<Fertigkeitsänderung>
 				<Name>Magiekunde</Name>
 				<Änderung>1</Änderung>
+				<neuerWert>9</neuerWert>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2025-10-19</Datum>
+			<Grund>Trainig in Perricum</Grund>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Fokus der Austreibung</Name>
+				<Kosten>15</Kosten>
+				<Kategorie>Magisch</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Sonderfertigkeitshinzugewinn>
+				<Name>Exorzist I</Name>
+				<Kosten>10</Kosten>
+				<Kategorie>Magisch</Kategorie>
+			</Sonderfertigkeitshinzugewinn>
+			<Fertigkeitsänderung>
+				<Name>Heilkunde Seele</Name>
+				<Änderung>2</Änderung>
 				<neuerWert>9</neuerWert>
 			</Fertigkeitsänderung>
 			<LePGekauft>0</LePGekauft>
