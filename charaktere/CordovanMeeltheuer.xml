@@ -47,6 +47,10 @@
 			<Name>Zeitgefühl</Name>
 			<Kosten>2</Kosten>
 		</Vorteil>
+		<Vorteil>
+			<Name>Glück I</Name>
+			<Kosten>30</Kosten>
+		</Vorteil>
 	</Vorteile>
 	<Nachteile>
 		<Nachteil>
@@ -82,7 +86,7 @@
 			<Kosten>5</Kosten>
 		</Nachteil>
 	</Nachteile>
-	<AP>1260</AP>
+	<AP>1300</AP>
 	<Talente>
 		<Talent>
 			<Name>Fliegen</Name>
@@ -131,7 +135,7 @@
 		</Talent>
 		<Talent>
 			<Name>Sinnesschärfe</Name>
-			<Fertigkeitswert>7</Fertigkeitswert>
+			<Fertigkeitswert>9</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
@@ -146,12 +150,12 @@
 		</Talent>
 		<Talent>
 			<Name>Verbergen</Name>
-			<Fertigkeitswert>4</Fertigkeitswert>
+			<Fertigkeitswert>6</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
 			<Name>Zechen</Name>
-			<Fertigkeitswert>6</Fertigkeitswert>
+			<Fertigkeitswert>8</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
@@ -201,7 +205,7 @@
 		</Talent>
 		<Talent>
 			<Name>Fährtensuchen</Name>
-			<Fertigkeitswert>8</Fertigkeitswert>
+			<Fertigkeitswert>10</Fertigkeitswert>
 			<Merkmal>Natur</Merkmal>
 		</Talent>
 		<Talent>
@@ -216,7 +220,7 @@
 		</Talent>
 		<Talent>
 			<Name>Orientierung</Name>
-			<Fertigkeitswert>9</Fertigkeitswert>
+			<Fertigkeitswert>10</Fertigkeitswert>
 			<Merkmal>Natur</Merkmal>
 		</Talent>
 		<Talent>
@@ -231,7 +235,7 @@
 		</Talent>
 		<Talent>
 			<Name>Wildnisleben</Name>
-			<Fertigkeitswert>9</Fertigkeitswert>
+			<Fertigkeitswert>10</Fertigkeitswert>
 			<Merkmal>Natur</Merkmal>
 		</Talent>
 		<Talent>
@@ -382,7 +386,7 @@
 	<Kampftechniken>
 		<Kampftechnik>
 			<Name>Bögen</Name>
-			<Kampftechnikwert>14</Kampftechnikwert>
+			<Kampftechnikwert>15</Kampftechnikwert>
 			<Leiteigenschaft>FF</Leiteigenschaft>
 			<Steigerungskosten>C</Steigerungskosten>
 		</Kampftechnik>
@@ -412,7 +416,7 @@
 		</Kampftechnik>
 		<Kampftechnik>
 			<Name>Stangenwaffen</Name>
-			<Kampftechnikwert>10</Kampftechnikwert>
+			<Kampftechnikwert>11</Kampftechnikwert>
 			<Leiteigenschaft>GE</Leiteigenschaft>
 			<Steigerungskosten>C</Steigerungskosten>
 		</Kampftechnik>
@@ -1084,6 +1088,68 @@
 				<Kosten>20</Kosten>
 				<Kategorie>Kampf</Kategorie>
 			</Sonderfertigkeitshinzugewinn>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2025-10-19</Datum>
+			<Grund>Abschluss: "Vae victis!" versus "Veritas vincit."</Grund>
+			<Fertigkeitsänderung>
+				<Name>Sinnesschärfe</Name>
+				<Änderung>2</Änderung>
+				<neuerWert>9</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Verbergen</Name>
+				<Änderung>2</Änderung>
+				<neuerWert>6</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Fährtensuchen</Name>
+				<Änderung>2</Änderung>
+				<neuerWert>10</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Orientierung</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>10</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Wildnisleben</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>10</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Bögen</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>15</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Stangenwaffen</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>11</neuerWert>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2025-10-19</Datum>
+			<Grund>Nachtrag Zechen</Grund>
+			<Fertigkeitsänderung>
+				<Name>Zechen</Name>
+				<Änderung>2</Änderung>
+				<neuerWert>8</neuerWert>
+			</Fertigkeitsänderung>
 			<LePGekauft>0</LePGekauft>
 			<AsPGekauft>0</AsPGekauft>
 			<AsPVerloren>0</AsPVerloren>
