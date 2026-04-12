@@ -78,7 +78,7 @@
 			<Kosten>20</Kosten>
 		</Nachteil>
 	</Nachteile>
-	<AP>1240</AP>
+	<AP>1288</AP>
 	<LostAsP>4</LostAsP>
 	<RestoredAsP>4</RestoredAsP>
 	<Talente>
@@ -99,7 +99,7 @@
 		</Talent>
 		<Talent>
 			<Name>Körperbeherrschung</Name>
-			<Fertigkeitswert>3</Fertigkeitswert>
+			<Fertigkeitswert>4</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
@@ -154,7 +154,7 @@
 		</Talent>
 		<Talent>
 			<Name>Bekehren&amp; Überzeugen</Name>
-			<Fertigkeitswert>5</Fertigkeitswert>
+			<Fertigkeitswert>6</Fertigkeitswert>
 			<Merkmal>Gesellschaft</Merkmal>
 		</Talent>
 		<Talent>
@@ -179,7 +179,7 @@
 		</Talent>
 		<Talent>
 			<Name>Menschenkenntnis</Name>
-			<Fertigkeitswert>5</Fertigkeitswert>
+			<Fertigkeitswert>6</Fertigkeitswert>
 			<Merkmal>Gesellschaft</Merkmal>
 		</Talent>
 		<Talent>
@@ -194,7 +194,7 @@
 		</Talent>
 		<Talent>
 			<Name>Willenskraft</Name>
-			<Fertigkeitswert>5</Fertigkeitswert>
+			<Fertigkeitswert>6</Fertigkeitswert>
 			<Merkmal>Gesellschaft</Merkmal>
 		</Talent>
 		<Talent>
@@ -259,7 +259,7 @@
 		</Talent>
 		<Talent>
 			<Name>Magiekunde</Name>
-			<Fertigkeitswert>9</Fertigkeitswert>
+			<Fertigkeitswert>10</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
@@ -284,7 +284,7 @@
 		</Talent>
 		<Talent>
 			<Name>Sphärenkunde</Name>
-			<Fertigkeitswert>6</Fertigkeitswert>
+			<Fertigkeitswert>7</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
@@ -395,7 +395,7 @@
 			<Attribut1>KL</Attribut1>
 			<Attribut2>KL</Attribut2>
 			<Attribut3>IN</Attribut3>
-			<Fertigkeitswert>5</Fertigkeitswert>
+			<Fertigkeitswert>6</Fertigkeitswert>
 			<Steigerungskosten>C</Steigerungskosten>
 			<Kategorie>Zauber</Kategorie>
 			<Merkmal>TRADITION_MAGIER</Merkmal>
@@ -472,7 +472,7 @@
 			<Attribut1>KL</Attribut1>
 			<Attribut2>IN</Attribut2>
 			<Attribut3>IN</Attribut3>
-			<Fertigkeitswert>8</Fertigkeitswert>
+			<Fertigkeitswert>9</Fertigkeitswert>
 			<Steigerungskosten>A</Steigerungskosten>
 			<Kategorie>Zauber</Kategorie>
 			<Merkmal>TRADITION_MAGIER</Merkmal>
@@ -1225,6 +1225,57 @@
 				<Name>Heilkunde Seele</Name>
 				<Änderung>2</Änderung>
 				<neuerWert>9</neuerWert>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2026-04-12</Datum>
+			<Grund>Abschluss: Langer Schatten</Grund>
+			<Fertigkeitsänderung>
+				<Name>Körperbeherrschung</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>4</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Bekehren&amp; Überzeugen</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>6</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Menschenkenntnis</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>6</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Willenskraft</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>6</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Magiekunde</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>10</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Sphärenkunde</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>7</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Odem Arcanum</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>9</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Analys Arkanstruktur</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>6</neuerWert>
 			</Fertigkeitsänderung>
 			<LePGekauft>0</LePGekauft>
 			<AsPGekauft>0</AsPGekauft>
