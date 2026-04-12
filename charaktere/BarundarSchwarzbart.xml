@@ -123,7 +123,7 @@
 			<Kosten>0</Kosten>
 		</Nachteil>
 	</Nachteile>
-	<AP>2368</AP>
+	<AP>2380</AP>
 	<LeP>1</LeP>
 	<Talente>
 		<Talent>
@@ -138,7 +138,7 @@
 		</Talent>
 		<Talent>
 			<Name>Kraftakt</Name>
-			<Fertigkeitswert>7</Fertigkeitswert>
+			<Fertigkeitswert>8</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
@@ -163,7 +163,7 @@
 		</Talent>
 		<Talent>
 			<Name>Menschenkenntnis</Name>
-			<Fertigkeitswert>12</Fertigkeitswert>
+			<Fertigkeitswert>13</Fertigkeitswert>
 			<Merkmal>Gesellschaft</Merkmal>
 		</Talent>
 		<Talent>
@@ -173,12 +173,12 @@
 		</Talent>
 		<Talent>
 			<Name>Willenskraft</Name>
-			<Fertigkeitswert>5</Fertigkeitswert>
+			<Fertigkeitswert>6</Fertigkeitswert>
 			<Merkmal>Gesellschaft</Merkmal>
 		</Talent>
 		<Talent>
 			<Name>Orientierung</Name>
-			<Fertigkeitswert>10</Fertigkeitswert>
+			<Fertigkeitswert>11</Fertigkeitswert>
 			<Merkmal>Natur</Merkmal>
 		</Talent>
 		<Talent>
@@ -318,7 +318,7 @@
 		</Talent>
 		<Talent>
 			<Name>Bekehren&amp; Überzeugen</Name>
-			<Fertigkeitswert>11</Fertigkeitswert>
+			<Fertigkeitswert>12</Fertigkeitswert>
 			<Merkmal>Gesellschaft</Merkmal>
 		</Talent>
 		<Talent>
@@ -403,7 +403,7 @@
 		</Talent>
 		<Talent>
 			<Name>Heilkunde Seele</Name>
-			<Fertigkeitswert>2</Fertigkeitswert>
+			<Fertigkeitswert>3</Fertigkeitswert>
 			<Merkmal>Handwerk</Merkmal>
 		</Talent>
 		<Talent>
@@ -1478,6 +1478,47 @@
 				<Name>Pflanzenkunde</Name>
 				<Änderung>1</Änderung>
 				<neuerWert>5</neuerWert>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2026-04-12</Datum>
+			<Grund>Abschluss: Langer Schatten</Grund>
+			<Fertigkeitsänderung>
+				<Name>Menschenkenntnis</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>13</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Bekehren&amp; Überzeugen</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>12</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Kraftakt</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>8</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Willenskraft</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>6</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Heilkunde Seele</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>3</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Orientierung</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>11</neuerWert>
 			</Fertigkeitsänderung>
 			<LePGekauft>0</LePGekauft>
 			<AsPGekauft>0</AsPGekauft>
