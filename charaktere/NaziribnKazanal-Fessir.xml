@@ -66,7 +66,7 @@
 			<Kosten>10</Kosten>
 		</Nachteil>
 	</Nachteile>
-	<AP>1100</AP>
+	<AP>1140</AP>
 	<Talente>
 		<Talent>
 			<Name>Fliegen</Name>
@@ -80,12 +80,12 @@
 		</Talent>
 		<Talent>
 			<Name>Klettern</Name>
-			<Fertigkeitswert>7</Fertigkeitswert>
+			<Fertigkeitswert>8</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
 			<Name>Körperbeherrschung</Name>
-			<Fertigkeitswert>7</Fertigkeitswert>
+			<Fertigkeitswert>8</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
@@ -110,12 +110,12 @@
 		</Talent>
 		<Talent>
 			<Name>Singen</Name>
-			<Fertigkeitswert>8</Fertigkeitswert>
+			<Fertigkeitswert>9</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
 			<Name>Sinnesschärfe</Name>
-			<Fertigkeitswert>7</Fertigkeitswert>
+			<Fertigkeitswert>8</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
@@ -130,7 +130,7 @@
 		</Talent>
 		<Talent>
 			<Name>Verbergen</Name>
-			<Fertigkeitswert>7</Fertigkeitswert>
+			<Fertigkeitswert>8</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
@@ -170,7 +170,7 @@
 		</Talent>
 		<Talent>
 			<Name>Überreden</Name>
-			<Fertigkeitswert>8</Fertigkeitswert>
+			<Fertigkeitswert>9</Fertigkeitswert>
 			<Merkmal>Gesellschaft</Merkmal>
 		</Talent>
 		<Talent>
@@ -225,7 +225,7 @@
 		</Talent>
 		<Talent>
 			<Name>Geographie</Name>
-			<Fertigkeitswert>4</Fertigkeitswert>
+			<Fertigkeitswert>5</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
@@ -265,7 +265,7 @@
 		</Talent>
 		<Talent>
 			<Name>Sagen&amp; Legenden</Name>
-			<Fertigkeitswert>5</Fertigkeitswert>
+			<Fertigkeitswert>6</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
@@ -315,7 +315,7 @@
 		</Talent>
 		<Talent>
 			<Name>Heilkunde Wunde</Name>
-			<Fertigkeitswert>7</Fertigkeitswert>
+			<Fertigkeitswert>8</Fertigkeitswert>
 			<Merkmal>Handwerk</Merkmal>
 		</Talent>
 		<Talent>
@@ -444,6 +444,62 @@
 		<Ereignis>
 			<Datum>2026-05-23</Datum>
 			<Grund>Erzeugung</Grund>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2026-05-23</Datum>
+			<Grund>Abschluss: DC Apep</Grund>
+			<Fertigkeitsänderung>
+				<Name>Klettern</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>8</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Körperbeherrschung</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>8</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Singen</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>9</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Sinnesschärfe</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>8</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Verbergen</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>8</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Überreden</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>9</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Geographie</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>5</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Sagen&amp; Legenden</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>6</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Heilkunde Wunde</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>8</neuerWert>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
 		</Ereignis>
 	</Steigerungshistorie>
 </ns2:Charakter>
