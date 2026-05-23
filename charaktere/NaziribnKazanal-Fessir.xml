@@ -12,7 +12,7 @@
 	<Kultur/>
 	<Eigenschaftswerte>
 		<Mut Attributswert="13" Kürzel="MU"/>
-		<Klugheit Attributswert="13" Kürzel="KL"/>
+		<Klugheit Attributswert="14" Kürzel="KL"/>
 		<Intuition Attributswert="13" Kürzel="IN"/>
 		<Charisma Attributswert="14" Kürzel="CH"/>
 		<Fingerfertigkeit Attributswert="13" Kürzel="FF"/>
@@ -31,6 +31,10 @@
 		</Sprachen>
 		<Sprachen>
 			<Name>Zyklopäisch</Name>
+			<Stufe>1</Stufe>
+		</Sprachen>
+		<Sprachen>
+			<Name>Nujuka</Name>
 			<Stufe>1</Stufe>
 		</Sprachen>
 		<Schriften>
@@ -66,7 +70,7 @@
 			<Kosten>10</Kosten>
 		</Nachteil>
 	</Nachteile>
-	<AP>1140</AP>
+	<AP>1225</AP>
 	<Talente>
 		<Talent>
 			<Name>Fliegen</Name>
@@ -80,12 +84,12 @@
 		</Talent>
 		<Talent>
 			<Name>Klettern</Name>
-			<Fertigkeitswert>8</Fertigkeitswert>
+			<Fertigkeitswert>9</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
 			<Name>Körperbeherrschung</Name>
-			<Fertigkeitswert>8</Fertigkeitswert>
+			<Fertigkeitswert>9</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
@@ -110,12 +114,12 @@
 		</Talent>
 		<Talent>
 			<Name>Singen</Name>
-			<Fertigkeitswert>9</Fertigkeitswert>
+			<Fertigkeitswert>10</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
 			<Name>Sinnesschärfe</Name>
-			<Fertigkeitswert>8</Fertigkeitswert>
+			<Fertigkeitswert>9</Fertigkeitswert>
 			<Merkmal>Körper</Merkmal>
 		</Talent>
 		<Talent>
@@ -170,7 +174,7 @@
 		</Talent>
 		<Talent>
 			<Name>Überreden</Name>
-			<Fertigkeitswert>9</Fertigkeitswert>
+			<Fertigkeitswert>10</Fertigkeitswert>
 			<Merkmal>Gesellschaft</Merkmal>
 		</Talent>
 		<Talent>
@@ -180,7 +184,7 @@
 		</Talent>
 		<Talent>
 			<Name>Willenskraft</Name>
-			<Fertigkeitswert>7</Fertigkeitswert>
+			<Fertigkeitswert>8</Fertigkeitswert>
 			<Merkmal>Gesellschaft</Merkmal>
 		</Talent>
 		<Talent>
@@ -225,7 +229,7 @@
 		</Talent>
 		<Talent>
 			<Name>Geographie</Name>
-			<Fertigkeitswert>5</Fertigkeitswert>
+			<Fertigkeitswert>6</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
@@ -235,7 +239,7 @@
 		</Talent>
 		<Talent>
 			<Name>Götter&amp; Kulte</Name>
-			<Fertigkeitswert>4</Fertigkeitswert>
+			<Fertigkeitswert>5</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
@@ -245,7 +249,7 @@
 		</Talent>
 		<Talent>
 			<Name>Magiekunde</Name>
-			<Fertigkeitswert>1</Fertigkeitswert>
+			<Fertigkeitswert>2</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
@@ -265,7 +269,7 @@
 		</Talent>
 		<Talent>
 			<Name>Sagen&amp; Legenden</Name>
-			<Fertigkeitswert>6</Fertigkeitswert>
+			<Fertigkeitswert>7</Fertigkeitswert>
 			<Merkmal>Wissen</Merkmal>
 		</Talent>
 		<Talent>
@@ -295,7 +299,7 @@
 		</Talent>
 		<Talent>
 			<Name>Handel</Name>
-			<Fertigkeitswert>7</Fertigkeitswert>
+			<Fertigkeitswert>8</Fertigkeitswert>
 			<Merkmal>Handwerk</Merkmal>
 		</Talent>
 		<Talent>
@@ -315,7 +319,7 @@
 		</Talent>
 		<Talent>
 			<Name>Heilkunde Wunde</Name>
-			<Fertigkeitswert>8</Fertigkeitswert>
+			<Fertigkeitswert>9</Fertigkeitswert>
 			<Merkmal>Handwerk</Merkmal>
 		</Talent>
 		<Talent>
@@ -492,6 +496,82 @@
 				<Name>Heilkunde Wunde</Name>
 				<Änderung>1</Änderung>
 				<neuerWert>8</neuerWert>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2026-05-23</Datum>
+			<Grund>Abschluss DC: Fuldigor</Grund>
+			<Eigenschaftssteigerung>
+				<Eigenschaft>KL</Eigenschaft>
+				<Steigerung>1</Steigerung>
+				<neuerWert>14</neuerWert>
+			</Eigenschaftssteigerung>
+			<Fertigkeitsänderung>
+				<Name>Klettern</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>9</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Körperbeherrschung</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>9</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Singen</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>10</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Sinnesschärfe</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>9</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Überreden</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>10</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Willenskraft</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>8</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Geographie</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>6</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Götter&amp; Kulte</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>5</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Magiekunde</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>2</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Sagen&amp; Legenden</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>7</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Handel</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>8</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Heilkunde Wunde</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>9</neuerWert>
 			</Fertigkeitsänderung>
 			<LePGekauft>0</LePGekauft>
 			<AsPGekauft>0</AsPGekauft>
