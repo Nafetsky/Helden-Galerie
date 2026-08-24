@@ -123,7 +123,7 @@
 			<Kosten>0</Kosten>
 		</Nachteil>
 	</Nachteile>
-	<AP>2380</AP>
+	<AP>2382</AP>
 	<LeP>1</LeP>
 	<Talente>
 		<Talent>
@@ -168,7 +168,7 @@
 		</Talent>
 		<Talent>
 			<Name>Überreden</Name>
-			<Fertigkeitswert>7</Fertigkeitswert>
+			<Fertigkeitswert>8</Fertigkeitswert>
 			<Merkmal>Gesellschaft</Merkmal>
 		</Talent>
 		<Talent>
@@ -388,7 +388,7 @@
 		</Talent>
 		<Talent>
 			<Name>Handel</Name>
-			<Fertigkeitswert>6</Fertigkeitswert>
+			<Fertigkeitswert>7</Fertigkeitswert>
 			<Merkmal>Handwerk</Merkmal>
 		</Talent>
 		<Talent>
@@ -1519,6 +1519,27 @@
 				<Name>Orientierung</Name>
 				<Änderung>1</Änderung>
 				<neuerWert>11</neuerWert>
+			</Fertigkeitsänderung>
+			<LePGekauft>0</LePGekauft>
+			<AsPGekauft>0</AsPGekauft>
+			<AsPVerloren>0</AsPVerloren>
+			<AsPWiederhergestellt>0</AsPWiederhergestellt>
+			<KaPGekauft>0</KaPGekauft>
+			<KaPVerloren>0</KaPVerloren>
+			<KaPWiederhergestellt>0</KaPWiederhergestellt>
+		</Ereignis>
+		<Ereignis>
+			<Datum>2026-08-24</Datum>
+			<Grund>Abschluss: Die Kirche im Dorp lassen</Grund>
+			<Fertigkeitsänderung>
+				<Name>Handel</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>7</neuerWert>
+			</Fertigkeitsänderung>
+			<Fertigkeitsänderung>
+				<Name>Überreden</Name>
+				<Änderung>1</Änderung>
+				<neuerWert>8</neuerWert>
 			</Fertigkeitsänderung>
 			<LePGekauft>0</LePGekauft>
 			<AsPGekauft>0</AsPGekauft>
