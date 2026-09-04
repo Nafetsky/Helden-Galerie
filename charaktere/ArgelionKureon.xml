@@ -58,6 +58,10 @@
 			<Kosten>5</Kosten>
 		</Nachteil>
 		<Nachteil>
+			<Name>Gesucht I (Horasreich, Greifenfurt)</Name>
+			<Kosten>5</Kosten>
+		</Nachteil>
+		<Nachteil>
 			<Name>Verpflichtungen II (Adliger gegenüber seinem Lehnsherr)</Name>
 			<Kosten>0</Kosten>
 		</Nachteil>
